@@ -1,0 +1,2442 @@
+[
+    {
+        "Frage": "Wie fällt die Größe aus?",
+        "Antwort": "Unsere Schuhe fallen kleiner aus. Wenn Du zwischen zwei Größen stehst, wähle bitte die nächstgrößere Größe aus."
+    },
+    {
+        "Frage": "Sind die Schuhe wasserdicht?",
+        "Antwort": "Unsere Schuhe sind wasserabweisend. Für einen zusätzlichen Schutz gegen Schmutz und Wasser empfehlen wir die Schuhe zu imprägnieren"
+    },
+    {
+        "Frage": "Kann ich die Schuhe waschen?",
+        "Antwort": "wir empfehlen die Schuhe mit lauwarmen Wasser und einer milden Seife zu waschen. Bitte nicht in der Waschmaschine."
+    },
+    {
+        "Frage": "Aus welchem Material bestehen die Schuhe?",
+        "Antwort": "Spezielle Informationen zu Materialen findest Du auf der Produktseite der einzelnen Modelle."
+    },
+    {
+        "Frage": "Gibt es die Schuhe auch in anderen Farben?",
+        "Antwort": "Unsere Schuhe gibt es in rot, grün und schwarz."
+    },
+    {
+        "Frage": "Wie kann ich meine Bestellung verfolgen?",
+        "Antwort": "Sie erhalten einen Tracking-Link per E-Mail nach Versand."
+    },
+    {
+        "Frage": "Gibt es einen Mindestbestellwert?",
+        "Antwort": "Ja, der Mindestbestellwert beträgt 50 Euro."
+    },
+    {
+        "Frage": "Bieten Sie internationale Versandoptionen an?",
+        "Antwort": "Ja, wir versenden weltweit. Versandkosten variieren."
+    },
+    {
+        "Frage": "Wie kann ich einen Gutschein einlösen?",
+        "Antwort": "Geben Sie den Gutscheincode im Checkout ein."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich ein defektes Produkt erhalte?",
+        "Antwort": "Kontaktieren Sie unseren Kundenservice zur Rücksendung."
+    },
+    {
+        "Frage": "Wie lange sind die Gutscheine gültig?",
+        "Antwort": "Gutscheine sind in der Regel 12 Monate gültig."
+    },
+    {
+        "Frage": "Gibt es eine Kundenkarte?",
+        "Antwort": "Ja, unsere Kundenkarte bietet exklusive Rabatte."
+    },
+    {
+        "Frage": "Wie kann ich meine Zahlungsart ändern?",
+        "Antwort": "Das können Sie im Checkout-Prozess anpassen."
+    },
+    {
+        "Frage": "Sind meine Daten sicher?",
+        "Antwort": "Ja, wir verwenden SSL-Verschlüsselung für Ihre Sicherheit."
+    },
+    {
+        "Frage": "Wie kann ich meinen Account löschen?",
+        "Antwort": "Bitte kontaktieren Sie den Kundenservice zur Löschung."
+    },
+    {
+        "Frage": "Bieten Sie Geschenkverpackungen an?",
+        "Antwort": "Ja, wir bieten Geschenkverpackungen gegen Aufpreis an."
+    },
+    {
+        "Frage": "Wie kann ich meine Adresse ändern?",
+        "Antwort": "Loggen Sie sich in Ihr Konto ein und ändern Sie die Adresse."
+    },
+    {
+        "Frage": "Gibt es eine mobile App?",
+        "Antwort": "Ja, unsere App ist für iOS und Android verfügbar."
+    },
+    {
+        "Frage": "Wie kann ich eine Beschwerde einreichen?",
+        "Antwort": "Kontaktieren Sie unseren Kundenservice direkt."
+    },
+    {
+        "Frage": "Bieten Sie Rabatte für Studenten an?",
+        "Antwort": "Ja, wir bieten einen 10% Rabatt für Studenten an."
+    },
+    {
+        "Frage": "Wo finde ich die Größentabelle?",
+        "Antwort": "Die Größentabelle finden Sie auf der Produktseite."
+    },
+    {
+        "Frage": "Was ist Ihre Rückgabepolitik?",
+        "Antwort": "Rückgaben sind innerhalb von 30 Tagen möglich."
+    },
+    {
+        "Frage": "Wie lange dauert die Rückerstattung?",
+        "Antwort": "Rückerstattungen dauern in der Regel 5-10 Werktage."
+    },
+    {
+        "Frage": "Kann ich meine Bestellung ändern?",
+        "Antwort": "Änderungen sind nur innerhalb von 24 Stunden möglich."
+    },
+    {
+        "Frage": "Gibt es eine Warteliste für ausverkaufte Artikel?",
+        "Antwort": "Ja, Sie können sich für die Warteliste anmelden."
+    },
+    {
+        "Frage": "Wie kann ich meine Bestellung stornieren?",
+        "Antwort": "Stornierungen sind innerhalb von 24 Stunden möglich."
+    },
+    {
+        "Frage": "Bieten Sie eine Preisgarantie an?",
+        "Antwort": "Ja, wir garantieren den besten Preis für 30 Tage."
+    },
+    {
+        "Frage": "Wie kann ich mich für den Newsletter anmelden?",
+        "Antwort": "Tragen Sie Ihre E-Mail-Adresse im Footer ein."
+    },
+    {
+        "Frage": "Gibt es eine Hotline für Fragen?",
+        "Antwort": "Ja, unsere Hotline ist von 9 bis 17 Uhr erreichbar."
+    },
+    {
+        "Frage": "Wie kann ich Feedback geben?",
+        "Antwort": "Feedback können Sie über unser Kontaktformular senden."
+    },
+    {
+        "Frage": "Gibt es eine App für Sonderangebote?",
+        "Antwort": "Ja, unsere App bietet exklusive Angebote und Rabatte."
+    },
+    {
+        "Frage": "Wie kann ich eine Bestellung als Geschenk versenden?",
+        "Antwort": "Wählen Sie die Geschenkoption beim Checkout."
+    },
+    {
+        "Frage": "Gibt es Mengenrabatte?",
+        "Antwort": "Ja, bei Bestellungen ab 10 Stück erhalten Sie Rabatte."
+    },
+    {
+        "Frage": "Kann ich mit PayPal bezahlen?",
+        "Antwort": "Ja, wir akzeptieren PayPal als Zahlungsmethode."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich mein Passwort vergessen habe?",
+        "Antwort": "Nutzen Sie die \"Passwort vergessen?\"-Funktion auf der Login-Seite."
+    },
+    {
+        "Frage": "Gibt es eine Garantie auf die Produkte?",
+        "Antwort": "Ja, wir bieten eine 2-jährige Garantie auf alle Produkte."
+    },
+    {
+        "Frage": "Wie kann ich mich für eine Rücksendung anmelden?",
+        "Antwort": "Füllen Sie das Rücksendeformular auf unserer Website aus."
+    },
+    {
+        "Frage": "Was sind die Versandkosten?",
+        "Antwort": "Versandkosten betragen 5 Euro, ab 100 Euro kostenlos."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, Artikel zu reservieren?",
+        "Antwort": "Leider bieten wir derzeit keine Reservierungsoption an."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich einen falschen Artikel erhalte?",
+        "Antwort": "Kontaktieren Sie unseren Kundenservice zur Klärung."
+    },
+    {
+        "Frage": "Wie kann ich meine Zahlungsinformationen aktualisieren?",
+        "Antwort": "Das können Sie in Ihrem Konto unter \"Zahlungen\" tun."
+    },
+    {
+        "Frage": "Wie oft haben Sie Sales?",
+        "Antwort": "Wir haben regelmäßig Sales, vor allem saisonal."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Produkte vor dem Kauf zu testen?",
+        "Antwort": "Momentan bieten wir keine Testmöglichkeiten an."
+    },
+    {
+        "Frage": "Was sind die Vorteile der Kundenkarte?",
+        "Antwort": "Rabatte, exklusive Angebote und frühzeitiger Zugang zu Sales."
+    },
+    {
+        "Frage": "Wie kann ich einen Artikel bewerten?",
+        "Antwort": "Bewertungen können auf der Produktseite hinterlassen werden."
+    },
+    {
+        "Frage": "Bieten Sie eine Zufriedenheitsgarantie an?",
+        "Antwort": "Ja, wenn Sie unzufrieden sind, erstatten wir Ihr Geld."
+    },
+    {
+        "Frage": "Wie kann ich meine Bestellhistorie einsehen?",
+        "Antwort": "Loggen Sie sich in Ihr Konto ein und gehen Sie zu \"Bestellungen\"."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, Artikel zurückzulegen?",
+        "Antwort": "Leider ist das derzeit nicht möglich."
+    },
+    {
+        "Frage": "Wie kann ich die neuesten Produkte sehen?",
+        "Antwort": "Besuchen Sie unsere \"Neuheiten\"-Sektion auf der Website."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, mit Kreditkarte zu bezahlen?",
+        "Antwort": "Ja, wir akzeptieren alle gängigen Kreditkarten."
+    },
+    {
+        "Frage": "Wie lange dauert der Versand innerhalb Deutschlands?",
+        "Antwort": "Der Versand dauert in der Regel 2-5 Werktage."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich ein falsches Produkt bestellt habe?",
+        "Antwort": "Kontaktieren Sie unseren Kundenservice zur Rücksendung."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, meine Bestellung als Geschenk zu verpacken?",
+        "Antwort": "Ja, wir bieten Geschenkverpackungen an."
+    },
+    {
+        "Frage": "Bieten Sie eine Abholung im Geschäft an?",
+        "Antwort": "Ja, Abholung im Geschäft ist möglich."
+    },
+    {
+        "Frage": "Wie kann ich mein Konto reaktivieren?",
+        "Antwort": "Kontaktieren Sie unseren Kundenservice zur Reaktivierung."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Produkte zu personalisieren?",
+        "Antwort": "Ja, einige Produkte können personalisiert werden."
+    },
+    {
+        "Frage": "Wie kann ich mein Feedback zu einem Produkt geben?",
+        "Antwort": "Nutzen Sie die Bewertungsfunktion auf der Produktseite."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Produkte zu vergleichen?",
+        "Antwort": "Ja, nutzen Sie die Vergleichsfunktion auf unserer Website."
+    },
+    {
+        "Frage": "Wie kann ich den Kundenservice kontaktieren?",
+        "Antwort": "Sie können uns per E-Mail oder Telefon erreichen."
+    },
+    {
+        "Frage": "Bieten Sie eine Rücksendung kostenlos an?",
+        "Antwort": "Rücksendungen sind innerhalb von 30 Tagen kostenlos."
+    },
+    {
+        "Frage": "Wie kann ich die Zahlungsmethoden einsehen?",
+        "Antwort": "Zahlungsmethoden finden Sie im Checkout-Prozess."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Bestellung zu ändern?",
+        "Antwort": "Änderungen sind innerhalb von 24 Stunden möglich."
+    },
+    {
+        "Frage": "Wie kann ich meine Lieferadresse ändern?",
+        "Antwort": "Das können Sie im Kundenkonto unter \"Adressen\" tun."
+    },
+    {
+        "Frage": "Wie kann ich einen Artikel in den Warenkorb legen?",
+        "Antwort": "Klicken Sie auf \"In den Warenkorb\" auf der Produktseite."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Produkte zu reservieren?",
+        "Antwort": "Momentan bieten wir keine Reservierungen an."
+    },
+    {
+        "Frage": "Wie kann ich meine Bestellung verfolgen?",
+        "Antwort": "Sie erhalten einen Tracking-Link per E-Mail nach Versand."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Produkte vor dem Kauf zu testen?",
+        "Antwort": "Leider bieten wir keine Testmöglichkeiten an."
+    },
+    {
+        "Frage": "Wie kann ich eine Beschwerde einreichen?",
+        "Antwort": "Kontaktieren Sie unseren Kundenservice direkt."
+    },
+    {
+        "Frage": "Gibt es eine Hotline für Fragen?",
+        "Antwort": "Ja, unsere Hotline ist von 9 bis 17 Uhr erreichbar."
+    },
+    {
+        "Frage": "Wie kann ich Feedback geben?",
+        "Antwort": "Feedback können Sie über unser Kontaktformular senden."
+    },
+    {
+        "Frage": "Gibt es eine mobile App?",
+        "Antwort": "Ja, unsere App ist für iOS und Android verfügbar."
+    },
+    {
+        "Frage": "Wie kann ich meine Zahlungsart ändern?",
+        "Antwort": "Das können Sie im Checkout-Prozess anpassen."
+    },
+    {
+        "Frage": "Sind meine Daten sicher?",
+        "Antwort": "Ja, wir verwenden SSL-Verschlüsselung für Ihre Sicherheit."
+    },
+    {
+        "Frage": "Wie kann ich meine Adresse ändern?",
+        "Antwort": "Loggen Sie sich in Ihr Konto ein und ändern Sie die Adresse."
+    },
+    {
+        "Frage": "Gibt es eine Kundenkarte?",
+        "Antwort": "Ja, unsere Kundenkarte bietet exklusive Rabatte."
+    },
+    {
+        "Frage": "Wie lange sind die Gutscheine gültig?",
+        "Antwort": "Gutscheine sind in der Regel 12 Monate gültig."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich ein defektes Produkt erhalte?",
+        "Antwort": "Kontaktieren Sie unseren Kundenservice zur Rücksendung."
+    },
+    {
+        "Frage": "Wie lange dauert die Rückerstattung?",
+        "Antwort": "Rückerstattungen dauern in der Regel 5-10 Werktage."
+    },
+    {
+        "Frage": "Kann ich meine Bestellung ändern?",
+        "Antwort": "Änderungen sind nur innerhalb von 24 Stunden möglich."
+    },
+    {
+        "Frage": "Gibt es Mengenrabatte?",
+        "Antwort": "Ja, bei Bestellungen ab 10 Stück erhalten Sie Rabatte."
+    },
+    {
+        "Frage": "Kann ich mit PayPal bezahlen?",
+        "Antwort": "Ja, wir akzeptieren PayPal als Zahlungsmethode."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich mein Passwort vergessen habe?",
+        "Antwort": "Nutzen Sie die \"Passwort vergessen?\"-Funktion auf der Login-Seite."
+    },
+    {
+        "Frage": "Gibt es eine Garantie auf die Produkte?",
+        "Antwort": "Ja, wir bieten eine 2-jährige Garantie auf alle Produkte."
+    },
+    {
+        "Frage": "Wie kann ich mich für eine Rücksendung anmelden?",
+        "Antwort": "Füllen Sie das Rücksendeformular auf unserer Website aus."
+    },
+    {
+        "Frage": "Was sind die Versandkosten?",
+        "Antwort": "Versandkosten betragen 5 Euro, ab 100 Euro kostenlos."
+    },
+    {
+        "Frage": "Wie kann ich meine Bestellhistorie einsehen?",
+        "Antwort": "Loggen Sie sich in Ihr Konto ein und gehen Sie zu \"Bestellungen\"."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, Artikel zurückzulegen?",
+        "Antwort": "Leider ist das derzeit nicht möglich."
+    },
+    {
+        "Frage": "Wie kann ich die neuesten Produkte sehen?",
+        "Antwort": "Besuchen Sie unsere \"Neuheiten\"-Sektion auf der Website."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, mit Kreditkarte zu bezahlen?",
+        "Antwort": "Ja, wir akzeptieren alle gängigen Kreditkarten."
+    },
+    {
+        "Frage": "Wie lange dauert der Versand innerhalb Deutschlands?",
+        "Antwort": "Der Versand dauert in der Regel 2-5 Werktage."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich ein falsches Produkt bestellt habe?",
+        "Antwort": "Kontaktieren Sie unseren Kundenservice zur Rücksendung."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, meine Bestellung als Geschenk zu verpacken?",
+        "Antwort": "Ja, wir bieten Geschenkverpackungen an."
+    },
+    {
+        "Frage": "Bieten Sie eine Abholung im Geschäft an?",
+        "Antwort": "Ja, Abholung im Geschäft ist möglich."
+    },
+    {
+        "Frage": "Wie kann ich mein Konto reaktivieren?",
+        "Antwort": "Kontaktieren Sie unseren Kundenservice zur Reaktivierung."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Produkte zu personalisieren?",
+        "Antwort": "Ja, einige Produkte können personalisiert werden."
+    },
+    {
+        "Frage": "Wie kann ich mein Feedback zu einem Produkt geben?",
+        "Antwort": "Nutzen Sie die Bewertungsfunktion auf der Produktseite."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Produkte zu vergleichen?",
+        "Antwort": "Ja, nutzen Sie die Vergleichsfunktion auf unserer Website."
+    },
+    {
+        "Frage": "Wie kann ich den Kundenservice kontaktieren?",
+        "Antwort": "Sie können uns per E-Mail oder Telefon erreichen."
+    },
+    {
+        "Frage": "Bieten Sie eine Rücksendung kostenlos an?",
+        "Antwort": "Rücksendungen sind innerhalb von 30 Tagen kostenlos."
+    },
+    {
+        "Frage": "Wie kann ich die Zahlungsmethoden einsehen?",
+        "Antwort": "Zahlungsmethoden finden Sie im Checkout-Prozess."
+    },
+    {
+        "Frage": "Wie fällt die Größe aus?",
+        "Antwort": "Bitte beachten Sie die Informationen auf der Produktseite oder wenden Sie sich an unseren Kundenservice."
+    },
+    {
+        "Frage": "Sind die Schuhe wasserdicht?",
+        "Antwort": "Bitte beachten Sie die Informationen auf der Produktseite oder wenden Sie sich an unseren Kundenservice."
+    },
+    {
+        "Frage": "Kann ich die Schuhe waschen?",
+        "Antwort": "Bitte beachten Sie die Informationen auf der Produktseite oder wenden Sie sich an unseren Kundenservice."
+    },
+    {
+        "Frage": "Aus welchem Material bestehen die Schuhe?",
+        "Antwort": "Bitte beachten Sie die Informationen auf der Produktseite oder wenden Sie sich an unseren Kundenservice."
+    },
+    {
+        "Frage": "Gibt es die Schuhe auch in anderen Farben?",
+        "Antwort": "Bitte beachten Sie die Informationen auf der Produktseite oder wenden Sie sich an unseren Kundenservice."
+    },
+    {
+        "Frage": "Wie kann ich meine Bestellung verfolgen?",
+        "Antwort": "Sie erhalten einen Tracking-Link per E-Mail nach Versand."
+    },
+    {
+        "Frage": "Gibt es einen Mindestbestellwert?",
+        "Antwort": "Ja, der Mindestbestellwert beträgt 50 Euro."
+    },
+    {
+        "Frage": "Bieten Sie internationale Versandoptionen an?",
+        "Antwort": "Ja, wir versenden weltweit. Versandkosten variieren."
+    },
+    {
+        "Frage": "Wie kann ich einen Gutschein einlösen?",
+        "Antwort": "Geben Sie den Gutscheincode im Checkout ein."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich ein defektes Produkt erhalte?",
+        "Antwort": "Kontaktieren Sie unseren Kundenservice zur Rücksendung."
+    },
+    {
+        "Frage": "Wie lange sind die Gutscheine gültig?",
+        "Antwort": "Gutscheine sind in der Regel 12 Monate gültig."
+    },
+    {
+        "Frage": "Gibt es eine Kundenkarte?",
+        "Antwort": "Ja, unsere Kundenkarte bietet exklusive Rabatte."
+    },
+    {
+        "Frage": "Wie kann ich meine Zahlungsart ändern?",
+        "Antwort": "Das können Sie im Checkout-Prozess anpassen."
+    },
+    {
+        "Frage": "Sind meine Daten sicher?",
+        "Antwort": "Ja, wir verwenden SSL-Verschlüsselung für Ihre Sicherheit."
+    },
+    {
+        "Frage": "Wie kann ich meinen Account löschen?",
+        "Antwort": "Bitte kontaktieren Sie den Kundenservice zur Löschung."
+    },
+    {
+        "Frage": "Bieten Sie Geschenkverpackungen an?",
+        "Antwort": "Ja, wir bieten Geschenkverpackungen gegen Aufpreis an."
+    },
+    {
+        "Frage": "Wie kann ich meine Adresse ändern?",
+        "Antwort": "Loggen Sie sich in Ihr Konto ein und ändern Sie die Adresse."
+    },
+    {
+        "Frage": "Gibt es eine mobile App?",
+        "Antwort": "Ja, unsere App ist für iOS und Android verfügbar."
+    },
+    {
+        "Frage": "Wie kann ich eine Beschwerde einreichen?",
+        "Antwort": "Kontaktieren Sie unseren Kundenservice direkt."
+    },
+    {
+        "Frage": "Bieten Sie Rabatte für Studenten an?",
+        "Antwort": "Ja, wir bieten einen 10% Rabatt für Studenten an."
+    },
+    {
+        "Frage": "Wo finde ich die Größentabelle?",
+        "Antwort": "Die Größentabelle finden Sie auf der Produktseite."
+    },
+    {
+        "Frage": "Was ist Ihre Rückgabepolitik?",
+        "Antwort": "Rückgaben sind innerhalb von 30 Tagen möglich."
+    },
+    {
+        "Frage": "Wie lange dauert die Rückerstattung?",
+        "Antwort": "Rückerstattungen dauern in der Regel 5-10 Werktage."
+    },
+    {
+        "Frage": "Kann ich meine Bestellung ändern?",
+        "Antwort": "Änderungen sind nur innerhalb von 24 Stunden möglich."
+    },
+    {
+        "Frage": "Gibt es eine Warteliste für ausverkaufte Artikel?",
+        "Antwort": "Ja, Sie können sich für die Warteliste anmelden."
+    },
+    {
+        "Frage": "Wie kann ich meine Bestellung stornieren?",
+        "Antwort": "Stornierungen sind innerhalb von 24 Stunden möglich."
+    },
+    {
+        "Frage": "Bieten Sie eine Preisgarantie an?",
+        "Antwort": "Ja, wir garantieren den besten Preis für 30 Tage."
+    },
+    {
+        "Frage": "Wie kann ich mich für den Newsletter anmelden?",
+        "Antwort": "Tragen Sie Ihre E-Mail-Adresse im Footer ein."
+    },
+    {
+        "Frage": "Gibt es eine Hotline für Fragen?",
+        "Antwort": "Ja, unsere Hotline ist von 9 bis 17 Uhr erreichbar."
+    },
+    {
+        "Frage": "Wie kann ich Feedback geben?",
+        "Antwort": "Feedback können Sie über unser Kontaktformular senden."
+    },
+    {
+        "Frage": "Gibt es eine App für Sonderangebote?",
+        "Antwort": "Ja, unsere App bietet exklusive Angebote und Rabatte."
+    },
+    {
+        "Frage": "Wie kann ich eine Bestellung als Geschenk versenden?",
+        "Antwort": "Wählen Sie die Geschenkoption beim Checkout."
+    },
+    {
+        "Frage": "Gibt es Mengenrabatte?",
+        "Antwort": "Ja, bei Bestellungen ab 10 Stück erhalten Sie Rabatte."
+    },
+    {
+        "Frage": "Kann ich mit PayPal bezahlen?",
+        "Antwort": "Ja, wir akzeptieren PayPal als Zahlungsmethode."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich mein Passwort vergessen habe?",
+        "Antwort": "Nutzen Sie die \"Passwort vergessen?\"-Funktion auf der Login-Seite."
+    },
+    {
+        "Frage": "Gibt es eine Garantie auf die Produkte?",
+        "Antwort": "Ja, wir bieten eine 2-jährige Garantie auf alle Produkte."
+    },
+    {
+        "Frage": "Wie kann ich mich für eine Rücksendung anmelden?",
+        "Antwort": "Füllen Sie das Rücksendeformular auf unserer Website aus."
+    },
+    {
+        "Frage": "Was sind die Versandkosten?",
+        "Antwort": "Versandkosten betragen 5 Euro, ab 100 Euro kostenlos."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, Artikel zu reservieren?",
+        "Antwort": "Leider bieten wir derzeit keine Reservierungsoption an."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich einen falschen Artikel erhalte?",
+        "Antwort": "Kontaktieren Sie unseren Kundenservice zur Klärung."
+    },
+    {
+        "Frage": "Wie kann ich meine Zahlungsinformationen aktualisieren?",
+        "Antwort": "Das können Sie in Ihrem Konto unter \"Zahlungen\" tun."
+    },
+    {
+        "Frage": "Wie oft haben Sie Sales?",
+        "Antwort": "Wir haben regelmäßig Sales, vor allem saisonal."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Produkte vor dem Kauf zu testen?",
+        "Antwort": "Momentan bieten wir keine Testmöglichkeiten an."
+    },
+    {
+        "Frage": "Was sind die Vorteile der Kundenkarte?",
+        "Antwort": "Rabatte, exklusive Angebote und frühzeitiger Zugang zu Sales."
+    },
+    {
+        "Frage": "Wie kann ich einen Artikel bewerten?",
+        "Antwort": "Bewertungen können auf der Produktseite hinterlassen werden."
+    },
+    {
+        "Frage": "Bieten Sie eine Zufriedenheitsgarantie an?",
+        "Antwort": "Ja, wenn Sie unzufrieden sind, erstatten wir Ihr Geld."
+    },
+    {
+        "Frage": "Wie kann ich meine Bestellhistorie einsehen?",
+        "Antwort": "Loggen Sie sich in Ihr Konto ein und gehen Sie zu \"Bestellungen\"."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, Artikel zurückzulegen?",
+        "Antwort": "Leider ist das derzeit nicht möglich."
+    },
+    {
+        "Frage": "Wie kann ich die neuesten Produkte sehen?",
+        "Antwort": "Besuchen Sie unsere \"Neuheiten\"-Sektion auf der Website."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, mit Kreditkarte zu bezahlen?",
+        "Antwort": "Ja, wir akzeptieren alle gängigen Kreditkarten."
+    },
+    {
+        "Frage": "Wie lange dauert der Versand innerhalb Deutschlands?",
+        "Antwort": "Der Versand dauert in der Regel 2-5 Werktage."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich ein falsches Produkt bestellt habe?",
+        "Antwort": "Kontaktieren Sie unseren Kundenservice zur Rücksendung."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, meine Bestellung als Geschenk zu verpacken?",
+        "Antwort": "Ja, wir bieten Geschenkverpackungen an."
+    },
+    {
+        "Frage": "Bieten Sie eine Abholung im Geschäft an?",
+        "Antwort": "Ja, Abholung im Geschäft ist möglich."
+    },
+    {
+        "Frage": "Wie kann ich mein Konto reaktivieren?",
+        "Antwort": "Kontaktieren Sie unseren Kundenservice zur Reaktivierung."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Produkte zu personalisieren?",
+        "Antwort": "Ja, einige Produkte können personalisiert werden."
+    },
+    {
+        "Frage": "Wie kann ich mein Feedback zu einem Produkt geben?",
+        "Antwort": "Nutzen Sie die Bewertungsfunktion auf der Produktseite."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Produkte zu vergleichen?",
+        "Antwort": "Ja, nutzen Sie die Vergleichsfunktion auf unserer Website."
+    },
+    {
+        "Frage": "Wie kann ich den Kundenservice kontaktieren?",
+        "Antwort": "Sie können uns per E-Mail oder Telefon erreichen."
+    },
+    {
+        "Frage": "Bieten Sie eine Rücksendung kostenlos an?",
+        "Antwort": "Rücksendungen sind innerhalb von 30 Tagen kostenlos."
+    },
+    {
+        "Frage": "Wie kann ich die Zahlungsmethoden einsehen?",
+        "Antwort": "Zahlungsmethoden finden Sie im Checkout-Prozess."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Bestellung zu ändern?",
+        "Antwort": "Änderungen sind innerhalb von 24 Stunden möglich."
+    },
+    {
+        "Frage": "Wie kann ich meine Lieferadresse ändern?",
+        "Antwort": "Das können Sie im Kundenkonto unter \"Adressen\" tun."
+    },
+    {
+        "Frage": "Wie kann ich einen Artikel in den Warenkorb legen?",
+        "Antwort": "Klicken Sie auf \"In den Warenkorb\" auf der Produktseite."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Produkte zu reservieren?",
+        "Antwort": "Momentan bieten wir keine Reservierungen an."
+    },
+    {
+        "Frage": "Wie kann ich meine Bestellung verfolgen?",
+        "Antwort": "Sie erhalten einen Tracking-Link per E-Mail nach Versand."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Produkte vor dem Kauf zu testen?",
+        "Antwort": "Leider bieten wir keine Testmöglichkeiten an."
+    },
+    {
+        "Frage": "Wie kann ich eine Beschwerde einreichen?",
+        "Antwort": "Kontaktieren Sie unseren Kundenservice direkt."
+    },
+    {
+        "Frage": "Gibt es eine Hotline für Fragen?",
+        "Antwort": "Ja, unsere Hotline ist von 9 bis 17 Uhr erreichbar."
+    },
+    {
+        "Frage": "Wie kann ich Feedback geben?",
+        "Antwort": "Feedback können Sie über unser Kontaktformular senden."
+    },
+    {
+        "Frage": "Gibt es eine mobile App?",
+        "Antwort": "Ja, unsere App ist für iOS und Android verfügbar."
+    },
+    {
+        "Frage": "Wie kann ich meine Zahlungsart ändern?",
+        "Antwort": "Das können Sie im Checkout-Prozess anpassen."
+    },
+    {
+        "Frage": "Sind meine Daten sicher?",
+        "Antwort": "Ja, wir verwenden SSL-Verschlüsselung für Ihre Sicherheit."
+    },
+    {
+        "Frage": "Wie kann ich meine Adresse ändern?",
+        "Antwort": "Loggen Sie sich in Ihr Konto ein und ändern Sie die Adresse."
+    },
+    {
+        "Frage": "Gibt es eine Kundenkarte?",
+        "Antwort": "Ja, unsere Kundenkarte bietet exklusive Rabatte."
+    },
+    {
+        "Frage": "Wie lange sind die Gutscheine gültig?",
+        "Antwort": "Gutscheine sind in der Regel 12 Monate gültig."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich ein defektes Produkt erhalte?",
+        "Antwort": "Kontaktieren Sie unseren Kundenservice zur Rücksendung."
+    },
+    {
+        "Frage": "Wie lange dauert die Rückerstattung?",
+        "Antwort": "Rückerstattungen dauern in der Regel 5-10 Werktage."
+    },
+    {
+        "Frage": "Kann ich meine Bestellung ändern?",
+        "Antwort": "Änderungen sind nur innerhalb von 24 Stunden möglich."
+    },
+    {
+        "Frage": "Gibt es Mengenrabatte?",
+        "Antwort": "Ja, bei Bestellungen ab 10 Stück erhalten Sie Rabatte."
+    },
+    {
+        "Frage": "Kann ich mit PayPal bezahlen?",
+        "Antwort": "Ja, wir akzeptieren PayPal als Zahlungsmethode."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich mein Passwort vergessen habe?",
+        "Antwort": "Nutzen Sie die \"Passwort vergessen?\"-Funktion auf der Login-Seite."
+    },
+    {
+        "Frage": "Gibt es eine Garantie auf die Produkte?",
+        "Antwort": "Ja, wir bieten eine 2-jährige Garantie auf alle Produkte."
+    },
+    {
+        "Frage": "Wie kann ich mich für eine Rücksendung anmelden?",
+        "Antwort": "Füllen Sie das Rücksendeformular auf unserer Website aus."
+    },
+    {
+        "Frage": "Was sind die Versandkosten?",
+        "Antwort": "Versandkosten betragen 5 Euro, ab 100 Euro kostenlos."
+    },
+    {
+        "Frage": "Wie kann ich meine Bestellhistorie einsehen?",
+        "Antwort": "Loggen Sie sich in Ihr Konto ein und gehen Sie zu \"Bestellungen\"."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, Artikel zurückzulegen?",
+        "Antwort": "Leider ist das derzeit nicht möglich."
+    },
+    {
+        "Frage": "Wie kann ich die neuesten Produkte sehen?",
+        "Antwort": "Besuchen Sie unsere \"Neuheiten\"-Sektion auf der Website."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, mit Kreditkarte zu bezahlen?",
+        "Antwort": "Ja, wir akzeptieren alle gängigen Kreditkarten."
+    },
+    {
+        "Frage": "Wie lange dauert der Versand innerhalb Deutschlands?",
+        "Antwort": "Der Versand dauert in der Regel 2-5 Werktage."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich ein falsches Produkt bestellt habe?",
+        "Antwort": "Kontaktieren Sie unseren Kundenservice zur Rücksendung."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, meine Bestellung als Geschenk zu verpacken?",
+        "Antwort": "Ja, wir bieten Geschenkverpackungen an."
+    },
+    {
+        "Frage": "Bieten Sie eine Abholung im Geschäft an?",
+        "Antwort": "Ja, Abholung im Geschäft ist möglich."
+    },
+    {
+        "Frage": "Wie kann ich mein Konto reaktivieren?",
+        "Antwort": "Kontaktieren Sie unseren Kundenservice zur Reaktivierung."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Produkte zu personalisieren?",
+        "Antwort": "Ja, einige Produkte können personalisiert werden."
+    },
+    {
+        "Frage": "Wie kann ich mein Feedback zu einem Produkt geben?",
+        "Antwort": "Nutzen Sie die Bewertungsfunktion auf der Produktseite."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Produkte zu vergleichen?",
+        "Antwort": "Ja, nutzen Sie die Vergleichsfunktion auf unserer Website."
+    },
+    {
+        "Frage": "Wie kann ich den Kundenservice kontaktieren?",
+        "Antwort": "Sie können uns per E-Mail oder Telefon erreichen."
+    },
+    {
+        "Frage": "Bieten Sie eine Rücksendung kostenlos an?",
+        "Antwort": "Rücksendungen sind innerhalb von 30 Tagen kostenlos."
+    },
+    {
+        "Frage": "Wie kann ich die Zahlungsmethoden einsehen?",
+        "Antwort": "Zahlungsmethoden finden Sie im Checkout-Prozess."
+    },
+    {
+        "Frage": "Was ist die Größenangabe für die Schuhe?",
+        "Antwort": "Bitte überprüfen Sie die Produktseite oder kontaktieren Sie unseren Kundenservice."
+    },
+    {
+        "Frage": "Sind die Schuhe für nasses Wetter geeignet?",
+        "Antwort": "Bitte überprüfen Sie die Produktseite oder kontaktieren Sie unseren Kundenservice."
+    },
+    {
+        "Frage": "Kann ich die Schuhe in der Waschmaschine reinigen?",
+        "Antwort": "Bitte überprüfen Sie die Produktseite oder kontaktieren Sie unseren Kundenservice."
+    },
+    {
+        "Frage": "Welches Material wird für die Schuhe verwendet?",
+        "Antwort": "Bitte überprüfen Sie die Produktseite oder kontaktieren Sie unseren Kundenservice."
+    },
+    {
+        "Frage": "Gibt es eine Auswahl an Farben für die Schuhe?",
+        "Antwort": "Bitte überprüfen Sie die Produktseite oder kontaktieren Sie unseren Kundenservice."
+    },
+    {
+        "Frage": "Wie kann ich den Status meiner Bestellung prüfen?",
+        "Antwort": "Sie erhalten einen Tracking-Link per E-Mail nach Versand."
+    },
+    {
+        "Frage": "Gibt es einen Mindestbetrag für Bestellungen?",
+        "Antwort": "Ja, der Mindestbestellwert liegt bei 50 Euro."
+    },
+    {
+        "Frage": "Bieten Sie internationalen Versand an?",
+        "Antwort": "Ja, wir versenden weltweit. Die Versandkosten können variieren."
+    },
+    {
+        "Frage": "Wie löse ich einen Gutschein ein?",
+        "Antwort": "Geben Sie den Gutscheincode im Checkout ein."
+    },
+    {
+        "Frage": "Was soll ich tun, wenn ich ein beschädigtes Produkt bekomme?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice für eine Rücksendung."
+    },
+    {
+        "Frage": "Wie lange ist die Gültigkeit von Gutscheinen?",
+        "Antwort": "Gutscheine sind in der Regel 12 Monate gültig."
+    },
+    {
+        "Frage": "Haben Sie eine Kundenkarte?",
+        "Antwort": "Ja, unsere Kundenkarte bietet exklusive Rabatte."
+    },
+    {
+        "Frage": "Wie kann ich meine Zahlungsoption ändern?",
+        "Antwort": "Das können Sie im Checkout-Prozess anpassen."
+    },
+    {
+        "Frage": "Sind meine persönlichen Daten geschützt?",
+        "Antwort": "Ja, wir verwenden SSL-Verschlüsselung für Ihre Sicherheit."
+    },
+    {
+        "Frage": "Wie lösche ich meinen Account?",
+        "Antwort": "Bitte kontaktieren Sie den Kundenservice für die Löschung."
+    },
+    {
+        "Frage": "Bieten Sie Geschenkverpackungsservice an?",
+        "Antwort": "Ja, wir bieten Geschenkverpackungen gegen Aufpreis an."
+    },
+    {
+        "Frage": "Wie ändere ich meine Adresse in meinem Konto?",
+        "Antwort": "Loggen Sie sich in Ihr Konto ein und ändern Sie die Adresse."
+    },
+    {
+        "Frage": "Gibt es eine App für mobile Geräte?",
+        "Antwort": "Ja, unsere App ist für iOS und Android verfügbar."
+    },
+    {
+        "Frage": "Wie reiche ich eine Beschwerde ein?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice direkt."
+    },
+    {
+        "Frage": "Gibt es spezielle Rabatte für Schüler?",
+        "Antwort": "Ja, wir bieten einen 10% Rabatt für Studenten an."
+    },
+    {
+        "Frage": "Wo kann ich die Größentabelle finden?",
+        "Antwort": "Die Größentabelle ist auf der Produktseite verfügbar."
+    },
+    {
+        "Frage": "Wie funktioniert Ihre Rückgabepolitik?",
+        "Antwort": "Rückgaben sind innerhalb von 30 Tagen möglich."
+    },
+    {
+        "Frage": "Wie lange dauert es, bis ich meine Rückerstattung erhalte?",
+        "Antwort": "Rückerstattungen dauern in der Regel 5-10 Werktage."
+    },
+    {
+        "Frage": "Kann ich meine Bestellung nachträglich ändern?",
+        "Antwort": "Änderungen sind nur innerhalb von 24 Stunden möglich."
+    },
+    {
+        "Frage": "Gibt es eine Warteliste für ausverkaufte Produkte?",
+        "Antwort": "Ja, Sie können sich für die Warteliste anmelden."
+    },
+    {
+        "Frage": "Wie storniere ich meine Bestellung?",
+        "Antwort": "Stornierungen sind innerhalb von 24 Stunden möglich."
+    },
+    {
+        "Frage": "Gibt es eine Preisgarantie für Ihre Produkte?",
+        "Antwort": "Ja, wir garantieren den besten Preis für 30 Tage."
+    },
+    {
+        "Frage": "Wie melde ich mich für den Newsletter an?",
+        "Antwort": "Tragen Sie Ihre E-Mail-Adresse im Footer ein."
+    },
+    {
+        "Frage": "Haben Sie eine Hotline für Kundenfragen?",
+        "Antwort": "Ja, unsere Hotline ist von 9 bis 17 Uhr erreichbar."
+    },
+    {
+        "Frage": "Wie kann ich Feedback zu einem Produkt geben?",
+        "Antwort": "Feedback können Sie über unser Kontaktformular senden."
+    },
+    {
+        "Frage": "Gibt es eine spezielle App für Angebote?",
+        "Antwort": "Ja, unsere App bietet exklusive Angebote und Rabatte."
+    },
+    {
+        "Frage": "Wie kann ich ein Produkt als Geschenk versenden?",
+        "Antwort": "Wählen Sie die Geschenkoption beim Checkout."
+    },
+    {
+        "Frage": "Bieten Sie Mengenrabatte an?",
+        "Antwort": "Ja, bei Bestellungen ab 10 Stück erhalten Sie Rabatte."
+    },
+    {
+        "Frage": "Kann ich mit PayPal bezahlen?",
+        "Antwort": "Ja, wir akzeptieren PayPal als Zahlungsmethode."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich mein Passwort vergessen habe?",
+        "Antwort": "Nutzen Sie die \"Passwort vergessen?\"-Funktion auf der Login-Seite."
+    },
+    {
+        "Frage": "Gibt es eine Garantie auf Ihre Produkte?",
+        "Antwort": "Ja, wir bieten eine 2-jährige Garantie auf alle Produkte."
+    },
+    {
+        "Frage": "Wie melde ich mich für eine Rücksendung an?",
+        "Antwort": "Füllen Sie das Rücksendeformular auf unserer Website aus."
+    },
+    {
+        "Frage": "Wie hoch sind die Versandkosten?",
+        "Antwort": "Versandkosten betragen 5 Euro, ab 100 Euro kostenlos."
+    },
+    {
+        "Frage": "Kann ich Artikel reservieren?",
+        "Antwort": "Leider bieten wir derzeit keine Reservierungsoption an."
+    },
+    {
+        "Frage": "Was soll ich tun, wenn ich den falschen Artikel erhalte?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Klärung."
+    },
+    {
+        "Frage": "Wie aktualisiere ich meine Zahlungsinformationen?",
+        "Antwort": "Das können Sie in Ihrem Konto unter \"Zahlungen\" tun."
+    },
+    {
+        "Frage": "Wie häufig finden Ihre Sales statt?",
+        "Antwort": "Wir haben regelmäßig Sales, vor allem saisonal."
+    },
+    {
+        "Frage": "Kann ich die Produkte vor dem Kauf testen?",
+        "Antwort": "Momentan bieten wir keine Testmöglichkeiten an."
+    },
+    {
+        "Frage": "Was sind die Vorteile einer Kundenkarte?",
+        "Antwort": "Rabatte, exklusive Angebote und frühzeitiger Zugang zu Sales."
+    },
+    {
+        "Frage": "Wie bewerte ich einen Artikel?",
+        "Antwort": "Bewertungen können auf der Produktseite hinterlassen werden."
+    },
+    {
+        "Frage": "Gibt es eine Zufriedenheitsgarantie?",
+        "Antwort": "Ja, wenn Sie unzufrieden sind, erstatten wir Ihr Geld."
+    },
+    {
+        "Frage": "Wie sehe ich meine Bestellhistorie?",
+        "Antwort": "Loggen Sie sich in Ihr Konto ein und gehen Sie zu \"Bestellungen\"."
+    },
+    {
+        "Frage": "Kann ich Artikel zurücklegen?",
+        "Antwort": "Leider ist das derzeit nicht möglich."
+    },
+    {
+        "Frage": "Wie finde ich die neuesten Produkte?",
+        "Antwort": "Besuchen Sie unsere \"Neuheiten\"-Sektion auf der Website."
+    },
+    {
+        "Frage": "Kann ich mit Kreditkarte bezahlen?",
+        "Antwort": "Ja, wir akzeptieren alle gängigen Kreditkarten."
+    },
+    {
+        "Frage": "Wie lange dauert der Versand nach Deutschland?",
+        "Antwort": "Der Versand dauert in der Regel 2-5 Werktage."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich ein falsches Produkt bestellt habe?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Rücksendung."
+    },
+    {
+        "Frage": "Kann ich meine Bestellung als Geschenk verpacken lassen?",
+        "Antwort": "Ja, wir bieten Geschenkverpackungen an."
+    },
+    {
+        "Frage": "Bieten Sie eine Abholung im Geschäft an?",
+        "Antwort": "Ja, Abholung im Geschäft ist möglich."
+    },
+    {
+        "Frage": "Wie reaktiviere ich mein Konto?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Reaktivierung."
+    },
+    {
+        "Frage": "Kann ich Produkte personalisieren?",
+        "Antwort": "Ja, einige Produkte können personalisiert werden."
+    },
+    {
+        "Frage": "Wie gebe ich Feedback zu einem Produkt?",
+        "Antwort": "Nutzen Sie die Bewertungsfunktion auf der Produktseite."
+    },
+    {
+        "Frage": "Kann ich Produkte vergleichen?",
+        "Antwort": "Ja, nutzen Sie die Vergleichsfunktion auf unserer Website."
+    },
+    {
+        "Frage": "Wie kontaktiere ich den Kundenservice?",
+        "Antwort": "Sie können uns per E-Mail oder Telefon erreichen."
+    },
+    {
+        "Frage": "Sind Rücksendungen kostenlos?",
+        "Antwort": "Rücksendungen sind innerhalb von 30 Tagen kostenlos."
+    },
+    {
+        "Frage": "Wie sehe ich die Zahlungsmethoden?",
+        "Antwort": "Zahlungsmethoden finden Sie im Checkout-Prozess."
+    },
+    {
+        "Frage": "Kann ich meine Bestellung ändern?",
+        "Antwort": "Änderungen sind innerhalb von 24 Stunden möglich."
+    },
+    {
+        "Frage": "Wie kann ich meine Lieferadresse anpassen?",
+        "Antwort": "Das können Sie im Kundenkonto unter \"Adressen\" tun."
+    },
+    {
+        "Frage": "Wie lege ich einen Artikel in den Warenkorb?",
+        "Antwort": "Klicken Sie auf \"In den Warenkorb\" auf der Produktseite."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Produkte zu reservieren?",
+        "Antwort": "Momentan bieten wir keine Reservierungen an."
+    },
+    {
+        "Frage": "Wie verfolge ich meine Bestellung?",
+        "Antwort": "Sie erhalten einen Tracking-Link per E-Mail nach Versand."
+    },
+    {
+        "Frage": "Kann ich die Produkte vor dem Kauf ausprobieren?",
+        "Antwort": "Leider bieten wir keine Testmöglichkeiten an."
+    },
+    {
+        "Frage": "Wie reiche ich eine Beschwerde ein?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice direkt."
+    },
+    {
+        "Frage": "Haben Sie eine Hotline für Anfragen?",
+        "Antwort": "Ja, unsere Hotline ist von 9 bis 17 Uhr erreichbar."
+    },
+    {
+        "Frage": "Wie kann ich Feedback zu einem Produkt geben?",
+        "Antwort": "Feedback können Sie über unser Kontaktformular senden."
+    },
+    {
+        "Frage": "Gibt es eine App für exklusive Angebote?",
+        "Antwort": "Ja, unsere App bietet exklusive Angebote und Rabatte."
+    },
+    {
+        "Frage": "Wie kann ich ein Produkt als Geschenk bestellen?",
+        "Antwort": "Wählen Sie die Geschenkoption beim Checkout."
+    },
+    {
+        "Frage": "Bieten Sie Rabatte bei größeren Bestellungen an?",
+        "Antwort": "Ja, bei Bestellungen ab 10 Stück erhalten Sie Rabatte."
+    },
+    {
+        "Frage": "Kann ich mit PayPal bezahlen?",
+        "Antwort": "Ja, wir akzeptieren PayPal als Zahlungsmethode."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich mein Passwort vergessen habe?",
+        "Antwort": "Nutzen Sie die \"Passwort vergessen?\"-Funktion auf der Login-Seite."
+    },
+    {
+        "Frage": "Gibt es eine Garantie auf Ihre Produkte?",
+        "Antwort": "Ja, wir bieten eine 2-jährige Garantie auf alle Produkte."
+    },
+    {
+        "Frage": "Wie melde ich mich für eine Rücksendung an?",
+        "Antwort": "Füllen Sie das Rücksendeformular auf unserer Website aus."
+    },
+    {
+        "Frage": "Wie hoch sind die Versandkosten?",
+        "Antwort": "Versandkosten betragen 5 Euro, ab 100 Euro kostenlos."
+    },
+    {
+        "Frage": "Kann ich Artikel reservieren?",
+        "Antwort": "Leider bieten wir derzeit keine Reservierungsoption an."
+    },
+    {
+        "Frage": "Was soll ich tun, wenn ich den falschen Artikel erhalte?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Klärung."
+    },
+    {
+        "Frage": "Wie aktualisiere ich meine Zahlungsinformationen?",
+        "Antwort": "Das können Sie in Ihrem Konto unter \"Zahlungen\" tun."
+    },
+    {
+        "Frage": "Wie häufig finden Ihre Sales statt?",
+        "Antwort": "Wir haben regelmäßig Sales, vor allem saisonal."
+    },
+    {
+        "Frage": "Kann ich die Produkte vor dem Kauf testen?",
+        "Antwort": "Momentan bieten wir keine Testmöglichkeiten an."
+    },
+    {
+        "Frage": "Was sind die Vorteile einer Kundenkarte?",
+        "Antwort": "Rabatte, exklusive Angebote und frühzeitiger Zugang zu Sales."
+    },
+    {
+        "Frage": "Wie bewerte ich einen Artikel?",
+        "Antwort": "Bewertungen können auf der Produktseite hinterlassen werden."
+    },
+    {
+        "Frage": "Gibt es eine Zufriedenheitsgarantie?",
+        "Antwort": "Ja, wenn Sie unzufrieden sind, erstatten wir Ihr Geld."
+    },
+    {
+        "Frage": "Wie sehe ich meine Bestellhistorie?",
+        "Antwort": "Loggen Sie sich in Ihr Konto ein und gehen Sie zu \"Bestellungen\"."
+    },
+    {
+        "Frage": "Kann ich Artikel zurücklegen?",
+        "Antwort": "Leider ist das derzeit nicht möglich."
+    },
+    {
+        "Frage": "Wie finde ich die neuesten Produkte?",
+        "Antwort": "Besuchen Sie unsere \"Neuheiten\"-Sektion auf der Website."
+    },
+    {
+        "Frage": "Kann ich mit Kreditkarte bezahlen?",
+        "Antwort": "Ja, wir akzeptieren alle gängigen Kreditkarten."
+    },
+    {
+        "Frage": "Wie lange dauert der Versand nach Deutschland?",
+        "Antwort": "Der Versand dauert in der Regel 2-5 Werktage."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich ein falsches Produkt bestellt habe?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Rücksendung."
+    },
+    {
+        "Frage": "Kann ich meine Bestellung als Geschenk verpacken lassen?",
+        "Antwort": "Ja, wir bieten Geschenkverpackungen an."
+    },
+    {
+        "Frage": "Bieten Sie eine Abholung im Geschäft an?",
+        "Antwort": "Ja, Abholung im Geschäft ist möglich."
+    },
+    {
+        "Frage": "Wie reaktiviere ich mein Konto?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Reaktivierung."
+    },
+    {
+        "Frage": "Kann ich Produkte personalisieren?",
+        "Antwort": "Ja, einige Produkte können personalisiert werden."
+    },
+    {
+        "Frage": "Wie gebe ich Feedback zu einem Produkt?",
+        "Antwort": "Nutzen Sie die Bewertungsfunktion auf der Produktseite."
+    },
+    {
+        "Frage": "Kann ich Produkte vergleichen?",
+        "Antwort": "Ja, nutzen Sie die Vergleichsfunktion auf unserer Website."
+    },
+    {
+        "Frage": "Wie kontaktiere ich den Kundenservice?",
+        "Antwort": "Sie können uns per E-Mail oder Telefon erreichen."
+    },
+    {
+        "Frage": "Sind Rücksendungen kostenlos?",
+        "Antwort": "Rücksendungen sind innerhalb von 30 Tagen kostenlos."
+    },
+    {
+        "Frage": "Wie sehe ich die Zahlungsmethoden?",
+        "Antwort": "Zahlungsmethoden finden Sie im Checkout-Prozess."
+    },
+    {
+        "Frage": "Kann ich meine Bestellung ändern?",
+        "Antwort": "Änderungen sind innerhalb von 24 Stunden möglich."
+    },
+    {
+        "Frage": "Wie kann ich meine Lieferadresse anpassen?",
+        "Antwort": "Das können Sie im Kundenkonto unter \"Adressen\" tun."
+    },
+    {
+        "Frage": "Wie lege ich einen Artikel in den Warenkorb?",
+        "Antwort": "Klicken Sie auf \"In den Warenkorb\" auf der Produktseite."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Produkte zu reservieren?",
+        "Antwort": "Momentan bieten wir keine Reservierungen an."
+    },
+    {
+        "Frage": "Wie verfolge ich meine Bestellung?",
+        "Antwort": "Sie erhalten einen Tracking-Link per E-Mail nach Versand."
+    },
+    {
+        "Frage": "Kann ich die Produkte vor dem Kauf ausprobieren?",
+        "Antwort": "Leider bieten wir keine Testmöglichkeiten an."
+    },
+    {
+        "Frage": "Wie reiche ich eine Beschwerde ein?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice direkt."
+    },
+    {
+        "Frage": "Haben Sie eine Hotline für Anfragen?",
+        "Antwort": "Ja, unsere Hotline ist von 9 bis 17 Uhr erreichbar."
+    },
+    {
+        "Frage": "Wie kann ich Feedback zu einem Produkt geben?",
+        "Antwort": "Feedback können Sie über unser Kontaktformular senden."
+    },
+    {
+        "Frage": "Gibt es eine App für exklusive Angebote?",
+        "Antwort": "Ja, unsere App bietet exklusive Angebote und Rabatte."
+    },
+    {
+        "Frage": "Wie kann ich ein Produkt als Geschenk bestellen?",
+        "Antwort": "Wählen Sie die Geschenkoption beim Checkout."
+    },
+    {
+        "Frage": "Bieten Sie Rabatte bei größeren Bestellungen an?",
+        "Antwort": "Ja, bei Bestellungen ab 10 Stück erhalten Sie Rabatte."
+    },
+    {
+        "Frage": "Kann ich mit PayPal bezahlen?",
+        "Antwort": "Ja, wir akzeptieren PayPal als Zahlungsmethode."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich mein Passwort vergessen habe?",
+        "Antwort": "Nutzen Sie die \"Passwort vergessen?\"-Funktion auf der Login-Seite."
+    },
+    {
+        "Frage": "Gibt es eine Garantie auf Ihre Produkte?",
+        "Antwort": "Ja, wir bieten eine 2-jährige Garantie auf alle Produkte."
+    },
+    {
+        "Frage": "Wie melde ich mich für eine Rücksendung an?",
+        "Antwort": "Füllen Sie das Rücksendeformular auf unserer Website aus."
+    },
+    {
+        "Frage": "Wie hoch sind die Versandkosten?",
+        "Antwort": "Versandkosten betragen 5 Euro, ab 100 Euro kostenlos."
+    },
+    {
+        "Frage": "Kann ich Artikel reservieren?",
+        "Antwort": "Leider bieten wir derzeit keine Reservierungsoption an."
+    },
+    {
+        "Frage": "Was soll ich tun, wenn ich den falschen Artikel erhalte?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Klärung."
+    },
+    {
+        "Frage": "Wie aktualisiere ich meine Zahlungsinformationen?",
+        "Antwort": "Das können Sie in Ihrem Konto unter \"Zahlungen\" tun."
+    },
+    {
+        "Frage": "Wie häufig finden Ihre Sales statt?",
+        "Antwort": "Wir haben regelmäßig Sales, vor allem saisonal."
+    },
+    {
+        "Frage": "Kann ich die Produkte vor dem Kauf testen?",
+        "Antwort": "Momentan bieten wir keine Testmöglichkeiten an."
+    },
+    {
+        "Frage": "Was sind die Vorteile einer Kundenkarte?",
+        "Antwort": "Rabatte, exklusive Angebote und frühzeitiger Zugang zu Sales."
+    },
+    {
+        "Frage": "Wie bewerte ich einen Artikel?",
+        "Antwort": "Bewertungen können auf der Produktseite hinterlassen werden."
+    },
+    {
+        "Frage": "Gibt es eine Zufriedenheitsgarantie?",
+        "Antwort": "Ja, wenn Sie unzufrieden sind, erstatten wir Ihr Geld."
+    },
+    {
+        "Frage": "Wie sehe ich meine Bestellhistorie?",
+        "Antwort": "Loggen Sie sich in Ihr Konto ein und gehen Sie zu \"Bestellungen\"."
+    },
+    {
+        "Frage": "Kann ich Artikel zurücklegen?",
+        "Antwort": "Leider ist das derzeit nicht möglich."
+    },
+    {
+        "Frage": "Wie finde ich die neuesten Produkte?",
+        "Antwort": "Besuchen Sie unsere \"Neuheiten\"-Sektion auf der Website."
+    },
+    {
+        "Frage": "Kann ich mit Kreditkarte bezahlen?",
+        "Antwort": "Ja, wir akzeptieren alle gängigen Kreditkarten."
+    },
+    {
+        "Frage": "Wie lange dauert der Versand nach Deutschland?",
+        "Antwort": "Der Versand dauert in der Regel 2-5 Werktage."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich ein falsches Produkt bestellt habe?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Rücksendung."
+    },
+    {
+        "Frage": "Kann ich meine Bestellung als Geschenk verpacken lassen?",
+        "Antwort": "Ja, wir bieten Geschenkverpackungen an."
+    },
+    {
+        "Frage": "Bieten Sie eine Abholung im Geschäft an?",
+        "Antwort": "Ja, Abholung im Geschäft ist möglich."
+    },
+    {
+        "Frage": "Wie reaktiviere ich mein Konto?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Reaktivierung."
+    },
+    {
+        "Frage": "Kann ich Produkte personalisieren?",
+        "Antwort": "Ja, einige Produkte können personalisiert werden."
+    },
+    {
+        "Frage": "Wie gebe ich Feedback zu einem Produkt?",
+        "Antwort": "Nutzen Sie die Bewertungsfunktion auf der Produktseite."
+    },
+    {
+        "Frage": "Kann ich Produkte vergleichen?",
+        "Antwort": "Ja, nutzen Sie die Vergleichsfunktion auf unserer Website."
+    },
+    {
+        "Frage": "Wie kontaktiere ich den Kundenservice?",
+        "Antwort": "Sie können uns per E-Mail oder Telefon erreichen."
+    },
+    {
+        "Frage": "Sind Rücksendungen kostenlos?",
+        "Antwort": "Rücksendungen sind innerhalb von 30 Tagen kostenlos."
+    },
+    {
+        "Frage": "Wie sehe ich die Zahlungsmethoden?",
+        "Antwort": "Zahlungsmethoden finden Sie im Checkout-Prozess."
+    },
+    {
+        "Frage": "Kann ich meine Bestellung ändern?",
+        "Antwort": "Änderungen sind innerhalb von 24 Stunden möglich."
+    },
+    {
+        "Frage": "Wie kann ich meine Lieferadresse anpassen?",
+        "Antwort": "Das können Sie im Kundenkonto unter \"Adressen\" tun."
+    },
+    {
+        "Frage": "Wie lege ich einen Artikel in den Warenkorb?",
+        "Antwort": "Klicken Sie auf \"In den Warenkorb\" auf der Produktseite."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Produkte zu reservieren?",
+        "Antwort": "Momentan bieten wir keine Reservierungen an."
+    },
+    {
+        "Frage": "Wie verfolge ich meine Bestellung?",
+        "Antwort": "Sie erhalten einen Tracking-Link per E-Mail nach Versand."
+    },
+    {
+        "Frage": "Kann ich die Produkte vor dem Kauf ausprobieren?",
+        "Antwort": "Leider bieten wir keine Testmöglichkeiten an."
+    },
+    {
+        "Frage": "Wie reiche ich eine Beschwerde ein?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice direkt."
+    },
+    {
+        "Frage": "Haben Sie eine Hotline für Anfragen?",
+        "Antwort": "Ja, unsere Hotline ist von 9 bis 17 Uhr erreichbar."
+    },
+    {
+        "Frage": "Wie kann ich Feedback zu einem Produkt geben?",
+        "Antwort": "Feedback können Sie über unser Kontaktformular senden."
+    },
+    {
+        "Frage": "Gibt es eine App für exklusive Angebote?",
+        "Antwort": "Ja, unsere App bietet exklusive Angebote und Rabatte."
+    },
+    {
+        "Frage": "Wie kann ich ein Produkt als Geschenk bestellen?",
+        "Antwort": "Wählen Sie die Geschenkoption beim Checkout."
+    },
+    {
+        "Frage": "Bieten Sie Rabatte bei größeren Bestellungen an?",
+        "Antwort": "Ja, bei Bestellungen ab 10 Stück erhalten Sie Rabatte."
+    },
+    {
+        "Frage": "Kann ich mit PayPal bezahlen?",
+        "Antwort": "Ja, wir akzeptieren PayPal als Zahlungsmethode."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich mein Passwort vergessen habe?",
+        "Antwort": "Nutzen Sie die \"Passwort vergessen?\"-Funktion auf der Login-Seite."
+    },
+    {
+        "Frage": "Gibt es eine Garantie auf Ihre Produkte?",
+        "Antwort": "Ja, wir bieten eine 2-jährige Garantie auf alle Produkte."
+    },
+    {
+        "Frage": "Wie melde ich mich für eine Rücksendung an?",
+        "Antwort": "Füllen Sie das Rücksendeformular auf unserer Website aus."
+    },
+    {
+        "Frage": "Wie hoch sind die Versandkosten?",
+        "Antwort": "Versandkosten betragen 5 Euro, ab 100 Euro kostenlos."
+    },
+    {
+        "Frage": "Kann ich Artikel reservieren?",
+        "Antwort": "Leider bieten wir derzeit keine Reservierungsoption an."
+    },
+    {
+        "Frage": "Was soll ich tun, wenn ich den falschen Artikel erhalte?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Klärung."
+    },
+    {
+        "Frage": "Wie aktualisiere ich meine Zahlungsinformationen?",
+        "Antwort": "Das können Sie in Ihrem Konto unter \"Zahlungen\" tun."
+    },
+    {
+        "Frage": "Wie häufig finden Ihre Sales statt?",
+        "Antwort": "Wir haben regelmäßig Sales, vor allem saisonal."
+    },
+    {
+        "Frage": "Kann ich die Produkte vor dem Kauf testen?",
+        "Antwort": "Momentan bieten wir keine Testmöglichkeiten an."
+    },
+    {
+        "Frage": "Was sind die Vorteile einer Kundenkarte?",
+        "Antwort": "Rabatte, exklusive Angebote und frühzeitiger Zugang zu Sales."
+    },
+    {
+        "Frage": "Wie bewerte ich einen Artikel?",
+        "Antwort": "Bewertungen können auf der Produktseite hinterlassen werden."
+    },
+    {
+        "Frage": "Gibt es eine Zufriedenheitsgarantie?",
+        "Antwort": "Ja, wenn Sie unzufrieden sind, erstatten wir Ihr Geld."
+    },
+    {
+        "Frage": "Wie sehe ich meine Bestellhistorie?",
+        "Antwort": "Loggen Sie sich in Ihr Konto ein und gehen Sie zu \"Bestellungen\"."
+    },
+    {
+        "Frage": "Kann ich Artikel zurücklegen?",
+        "Antwort": "Leider ist das derzeit nicht möglich."
+    },
+    {
+        "Frage": "Wie finde ich die neuesten Produkte?",
+        "Antwort": "Besuchen Sie unsere \"Neuheiten\"-Sektion auf der Website."
+    },
+    {
+        "Frage": "Kann ich mit Kreditkarte bezahlen?",
+        "Antwort": "Ja, wir akzeptieren alle gängigen Kreditkarten."
+    },
+    {
+        "Frage": "Wie lange dauert der Versand nach Deutschland?",
+        "Antwort": "Der Versand dauert in der Regel 2-5 Werktage."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich ein falsches Produkt bestellt habe?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Rücksendung."
+    },
+    {
+        "Frage": "Kann ich meine Bestellung als Geschenk verpacken lassen?",
+        "Antwort": "Ja, wir bieten Geschenkverpackungen an."
+    },
+    {
+        "Frage": "Bieten Sie eine Abholung im Geschäft an?",
+        "Antwort": "Ja, Abholung im Geschäft ist möglich."
+    },
+    {
+        "Frage": "Wie reaktiviere ich mein Konto?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Reaktivierung."
+    },
+    {
+        "Frage": "Kann ich Produkte personalisieren?",
+        "Antwort": "Ja, einige Produkte können personalisiert werden."
+    },
+    {
+        "Frage": "Wie gebe ich Feedback zu einem Produkt?",
+        "Antwort": "Nutzen Sie die Bewertungsfunktion auf der Produktseite."
+    },
+    {
+        "Frage": "Kann ich Produkte vergleichen?",
+        "Antwort": "Ja, nutzen Sie die Vergleichsfunktion auf unserer Website."
+    },
+    {
+        "Frage": "Wie kontaktiere ich den Kundenservice?",
+        "Antwort": "Sie können uns per E-Mail oder Telefon erreichen."
+    },
+    {
+        "Frage": "Sind Rücksendungen kostenlos?",
+        "Antwort": "Rücksendungen sind innerhalb von 30 Tagen kostenlos."
+    },
+    {
+        "Frage": "Wie sehe ich die Zahlungsmethoden?",
+        "Antwort": "Zahlungsmethoden finden Sie im Checkout-Prozess."
+    },
+    {
+        "Frage": "Kann ich meine Bestellung ändern?",
+        "Antwort": "Änderungen sind innerhalb von 24 Stunden möglich."
+    },
+    {
+        "Frage": "Wie kann ich meine Lieferadresse anpassen?",
+        "Antwort": "Das können Sie im Kundenkonto unter \"Adressen\" tun."
+    },
+    {
+        "Frage": "Wie lege ich einen Artikel in den Warenkorb?",
+        "Antwort": "Klicken Sie auf \"In den Warenkorb\" auf der Produktseite."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Produkte zu reservieren?",
+        "Antwort": "Momentan bieten wir keine Reservierungen an."
+    },
+    {
+        "Frage": "Wie verfolge ich meine Bestellung?",
+        "Antwort": "Sie erhalten einen Tracking-Link per E-Mail nach Versand."
+    },
+    {
+        "Frage": "Kann ich die Produkte vor dem Kauf ausprobieren?",
+        "Antwort": "Leider bieten wir keine Testmöglichkeiten an."
+    },
+    {
+        "Frage": "Wie reiche ich eine Beschwerde ein?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice direkt."
+    },
+    {
+        "Frage": "Haben Sie eine Hotline für Anfragen?",
+        "Antwort": "Ja, unsere Hotline ist von 9 bis 17 Uhr erreichbar."
+    },
+    {
+        "Frage": "Wie kann ich Feedback zu einem Produkt geben?",
+        "Antwort": "Feedback können Sie über unser Kontaktformular senden."
+    },
+    {
+        "Frage": "Gibt es eine App für exklusive Angebote?",
+        "Antwort": "Ja, unsere App bietet exklusive Angebote und Rabatte."
+    },
+    {
+        "Frage": "Wie kann ich ein Produkt als Geschenk bestellen?",
+        "Antwort": "Wählen Sie die Geschenkoption beim Checkout."
+    },
+    {
+        "Frage": "Bieten Sie Rabatte bei größeren Bestellungen an?",
+        "Antwort": "Ja, bei Bestellungen ab 10 Stück erhalten Sie Rabatte."
+    },
+    {
+        "Frage": "Kann ich mit PayPal bezahlen?",
+        "Antwort": "Ja, wir akzeptieren PayPal als Zahlungsmethode."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich mein Passwort vergessen habe?",
+        "Antwort": "Nutzen Sie die \"Passwort vergessen?\"-Funktion auf der Login-Seite."
+    },
+    {
+        "Frage": "Gibt es eine Garantie auf Ihre Produkte?",
+        "Antwort": "Ja, wir bieten eine 2-jährige Garantie auf alle Produkte."
+    },
+    {
+        "Frage": "Wie melde ich mich für eine Rücksendung an?",
+        "Antwort": "Füllen Sie das Rücksendeformular auf unserer Website aus."
+    },
+    {
+        "Frage": "Wie hoch sind die Versandkosten?",
+        "Antwort": "Versandkosten betragen 5 Euro, ab 100 Euro kostenlos."
+    },
+    {
+        "Frage": "Kann ich Artikel reservieren?",
+        "Antwort": "Leider bieten wir derzeit keine Reservierungsoption an."
+    },
+    {
+        "Frage": "Was soll ich tun, wenn ich den falschen Artikel erhalte?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Klärung."
+    },
+    {
+        "Frage": "Wie aktualisiere ich meine Zahlungsinformationen?",
+        "Antwort": "Das können Sie in Ihrem Konto unter \"Zahlungen\" tun."
+    },
+    {
+        "Frage": "Wie häufig finden Ihre Sales statt?",
+        "Antwort": "Wir haben regelmäßig Sales, vor allem saisonal."
+    },
+    {
+        "Frage": "Kann ich die Produkte vor dem Kauf testen?",
+        "Antwort": "Momentan bieten wir keine Testmöglichkeiten an."
+    },
+    {
+        "Frage": "Was sind die Vorteile einer Kundenkarte?",
+        "Antwort": "Rabatte, exklusive Angebote und frühzeitiger Zugang zu Sales."
+    },
+    {
+        "Frage": "Wie bewerte ich einen Artikel?",
+        "Antwort": "Bewertungen können auf der Produktseite hinterlassen werden."
+    },
+    {
+        "Frage": "Was ist die Größenangabe für die Schuhe?",
+        "Antwort": "Bitte überprüfen Sie die Produktseite oder kontaktieren Sie unseren Kundenservice."
+    },
+    {
+        "Frage": "Sind die Schuhe für nasses Wetter geeignet?",
+        "Antwort": "Bitte überprüfen Sie die Produktseite oder kontaktieren Sie unseren Kundenservice."
+    },
+    {
+        "Frage": "Kann ich die Schuhe in der Waschmaschine reinigen?",
+        "Antwort": "Bitte überprüfen Sie die Produktseite oder kontaktieren Sie unseren Kundenservice."
+    },
+    {
+        "Frage": "Welches Material wird für die Schuhe verwendet?",
+        "Antwort": "Bitte überprüfen Sie die Produktseite oder kontaktieren Sie unseren Kundenservice."
+    },
+    {
+        "Frage": "Gibt es eine Auswahl an Farben für die Schuhe?",
+        "Antwort": "Bitte überprüfen Sie die Produktseite oder kontaktieren Sie unseren Kundenservice."
+    },
+    {
+        "Frage": "Wie kann ich den Status meiner Bestellung prüfen?",
+        "Antwort": "Sie erhalten einen Tracking-Link per E-Mail nach Versand."
+    },
+    {
+        "Frage": "Gibt es einen Mindestbetrag für Bestellungen?",
+        "Antwort": "Ja, der Mindestbestellwert liegt bei 50 Euro."
+    },
+    {
+        "Frage": "Bieten Sie internationalen Versand an?",
+        "Antwort": "Ja, wir versenden weltweit. Die Versandkosten können variieren."
+    },
+    {
+        "Frage": "Wie löse ich einen Gutschein ein?",
+        "Antwort": "Geben Sie den Gutscheincode im Checkout ein."
+    },
+    {
+        "Frage": "Was soll ich tun, wenn ich ein beschädigtes Produkt bekomme?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice für eine Rücksendung."
+    },
+    {
+        "Frage": "Wie lange ist die Gültigkeit von Gutscheinen?",
+        "Antwort": "Gutscheine sind in der Regel 12 Monate gültig."
+    },
+    {
+        "Frage": "Haben Sie eine Kundenkarte?",
+        "Antwort": "Ja, unsere Kundenkarte bietet exklusive Rabatte."
+    },
+    {
+        "Frage": "Wie kann ich meine Zahlungsoption ändern?",
+        "Antwort": "Das können Sie im Checkout-Prozess anpassen."
+    },
+    {
+        "Frage": "Sind meine persönlichen Daten geschützt?",
+        "Antwort": "Ja, wir verwenden SSL-Verschlüsselung für Ihre Sicherheit."
+    },
+    {
+        "Frage": "Wie lösche ich meinen Account?",
+        "Antwort": "Bitte kontaktieren Sie den Kundenservice für die Löschung."
+    },
+    {
+        "Frage": "Bieten Sie Geschenkverpackungsservice an?",
+        "Antwort": "Ja, wir bieten Geschenkverpackungen gegen Aufpreis an."
+    },
+    {
+        "Frage": "Wie ändere ich meine Adresse in meinem Konto?",
+        "Antwort": "Loggen Sie sich in Ihr Konto ein und ändern Sie die Adresse."
+    },
+    {
+        "Frage": "Gibt es eine App für mobile Geräte?",
+        "Antwort": "Ja, unsere App ist für iOS und Android verfügbar."
+    },
+    {
+        "Frage": "Wie reiche ich eine Beschwerde ein?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice direkt."
+    },
+    {
+        "Frage": "Gibt es spezielle Rabatte für Schüler?",
+        "Antwort": "Ja, wir bieten einen 10% Rabatt für Studenten an."
+    },
+    {
+        "Frage": "Wo kann ich die Größentabelle finden?",
+        "Antwort": "Die Größentabelle ist auf der Produktseite verfügbar."
+    },
+    {
+        "Frage": "Wie funktioniert Ihre Rückgabepolitik?",
+        "Antwort": "Rückgaben sind innerhalb von 30 Tagen möglich."
+    },
+    {
+        "Frage": "Wie lange dauert es, bis ich meine Rückerstattung erhalte?",
+        "Antwort": "Rückerstattungen dauern in der Regel 5-10 Werktage."
+    },
+    {
+        "Frage": "Kann ich meine Bestellung nachträglich ändern?",
+        "Antwort": "Änderungen sind nur innerhalb von 24 Stunden möglich."
+    },
+    {
+        "Frage": "Gibt es eine Warteliste für ausverkaufte Produkte?",
+        "Antwort": "Ja, Sie können sich für die Warteliste anmelden."
+    },
+    {
+        "Frage": "Wie storniere ich meine Bestellung?",
+        "Antwort": "Stornierungen sind innerhalb von 24 Stunden möglich."
+    },
+    {
+        "Frage": "Gibt es eine Preisgarantie für Ihre Produkte?",
+        "Antwort": "Ja, wir garantieren den besten Preis für 30 Tage."
+    },
+    {
+        "Frage": "Wie melde ich mich für den Newsletter an?",
+        "Antwort": "Tragen Sie Ihre E-Mail-Adresse im Footer ein."
+    },
+    {
+        "Frage": "Haben Sie eine Hotline für Kundenfragen?",
+        "Antwort": "Ja, unsere Hotline ist von 9 bis 17 Uhr erreichbar."
+    },
+    {
+        "Frage": "Wie kann ich Feedback zu einem Produkt geben?",
+        "Antwort": "Feedback können Sie über unser Kontaktformular senden."
+    },
+    {
+        "Frage": "Gibt es eine spezielle App für Angebote?",
+        "Antwort": "Ja, unsere App bietet exklusive Angebote und Rabatte."
+    },
+    {
+        "Frage": "Wie kann ich ein Produkt als Geschenk versenden?",
+        "Antwort": "Wählen Sie die Geschenkoption beim Checkout."
+    },
+    {
+        "Frage": "Bieten Sie Mengenrabatte an?",
+        "Antwort": "Ja, bei Bestellungen ab 10 Stück erhalten Sie Rabatte."
+    },
+    {
+        "Frage": "Kann ich mit PayPal bezahlen?",
+        "Antwort": "Ja, wir akzeptieren PayPal als Zahlungsmethode."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich mein Passwort vergessen habe?",
+        "Antwort": "Nutzen Sie die \"Passwort vergessen?\"-Funktion auf der Login-Seite."
+    },
+    {
+        "Frage": "Gibt es eine Garantie auf Ihre Produkte?",
+        "Antwort": "Ja, wir bieten eine 2-jährige Garantie auf alle Produkte."
+    },
+    {
+        "Frage": "Wie melde ich mich für eine Rücksendung an?",
+        "Antwort": "Füllen Sie das Rücksendeformular auf unserer Website aus."
+    },
+    {
+        "Frage": "Wie hoch sind die Versandkosten?",
+        "Antwort": "Versandkosten betragen 5 Euro, ab 100 Euro kostenlos."
+    },
+    {
+        "Frage": "Kann ich Artikel reservieren?",
+        "Antwort": "Leider bieten wir derzeit keine Reservierungsoption an."
+    },
+    {
+        "Frage": "Was soll ich tun, wenn ich den falschen Artikel erhalte?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Klärung."
+    },
+    {
+        "Frage": "Wie aktualisiere ich meine Zahlungsinformationen?",
+        "Antwort": "Das können Sie in Ihrem Konto unter \"Zahlungen\" tun."
+    },
+    {
+        "Frage": "Wie häufig finden Ihre Sales statt?",
+        "Antwort": "Wir haben regelmäßig Sales, vor allem saisonal."
+    },
+    {
+        "Frage": "Kann ich die Produkte vor dem Kauf testen?",
+        "Antwort": "Momentan bieten wir keine Testmöglichkeiten an."
+    },
+    {
+        "Frage": "Was sind die Vorteile einer Kundenkarte?",
+        "Antwort": "Rabatte, exklusive Angebote und frühzeitiger Zugang zu Sales."
+    },
+    {
+        "Frage": "Wie bewerte ich einen Artikel?",
+        "Antwort": "Bewertungen können auf der Produktseite hinterlassen werden."
+    },
+    {
+        "Frage": "Gibt es eine Zufriedenheitsgarantie?",
+        "Antwort": "Ja, wenn Sie unzufrieden sind, erstatten wir Ihr Geld."
+    },
+    {
+        "Frage": "Wie sehe ich meine Bestellhistorie?",
+        "Antwort": "Loggen Sie sich in Ihr Konto ein und gehen Sie zu \"Bestellungen\"."
+    },
+    {
+        "Frage": "Kann ich Artikel zurücklegen?",
+        "Antwort": "Leider ist das derzeit nicht möglich."
+    },
+    {
+        "Frage": "Wie finde ich die neuesten Produkte?",
+        "Antwort": "Besuchen Sie unsere \"Neuheiten\"-Sektion auf der Website."
+    },
+    {
+        "Frage": "Kann ich mit Kreditkarte bezahlen?",
+        "Antwort": "Ja, wir akzeptieren alle gängigen Kreditkarten."
+    },
+    {
+        "Frage": "Wie lange dauert der Versand nach Deutschland?",
+        "Antwort": "Der Versand dauert in der Regel 2-5 Werktage."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich ein falsches Produkt bestellt habe?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Rücksendung."
+    },
+    {
+        "Frage": "Kann ich meine Bestellung als Geschenk verpacken lassen?",
+        "Antwort": "Ja, wir bieten Geschenkverpackungen an."
+    },
+    {
+        "Frage": "Bieten Sie eine Abholung im Geschäft an?",
+        "Antwort": "Ja, Abholung im Geschäft ist möglich."
+    },
+    {
+        "Frage": "Wie reaktiviere ich mein Konto?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Reaktivierung."
+    },
+    {
+        "Frage": "Kann ich Produkte personalisieren?",
+        "Antwort": "Ja, einige Produkte können personalisiert werden."
+    },
+    {
+        "Frage": "Wie gebe ich Feedback zu einem Produkt?",
+        "Antwort": "Nutzen Sie die Bewertungsfunktion auf der Produktseite."
+    },
+    {
+        "Frage": "Kann ich Produkte vergleichen?",
+        "Antwort": "Ja, nutzen Sie die Vergleichsfunktion auf unserer Website."
+    },
+    {
+        "Frage": "Wie kontaktiere ich den Kundenservice?",
+        "Antwort": "Sie können uns per E-Mail oder Telefon erreichen."
+    },
+    {
+        "Frage": "Sind Rücksendungen kostenlos?",
+        "Antwort": "Rücksendungen sind innerhalb von 30 Tagen kostenlos."
+    },
+    {
+        "Frage": "Wie sehe ich die Zahlungsmethoden?",
+        "Antwort": "Zahlungsmethoden finden Sie im Checkout-Prozess."
+    },
+    {
+        "Frage": "Kann ich meine Bestellung ändern?",
+        "Antwort": "Änderungen sind innerhalb von 24 Stunden möglich."
+    },
+    {
+        "Frage": "Wie kann ich meine Lieferadresse anpassen?",
+        "Antwort": "Das können Sie im Kundenkonto unter \"Adressen\" tun."
+    },
+    {
+        "Frage": "Wie lege ich einen Artikel in den Warenkorb?",
+        "Antwort": "Klicken Sie auf \"In den Warenkorb\" auf der Produktseite."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Produkte zu reservieren?",
+        "Antwort": "Momentan bieten wir keine Reservierungen an."
+    },
+    {
+        "Frage": "Wie verfolge ich meine Bestellung?",
+        "Antwort": "Sie erhalten einen Tracking-Link per E-Mail nach Versand."
+    },
+    {
+        "Frage": "Kann ich die Produkte vor dem Kauf ausprobieren?",
+        "Antwort": "Leider bieten wir keine Testmöglichkeiten an."
+    },
+    {
+        "Frage": "Wie reiche ich eine Beschwerde ein?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice direkt."
+    },
+    {
+        "Frage": "Haben Sie eine Hotline für Anfragen?",
+        "Antwort": "Ja, unsere Hotline ist von 9 bis 17 Uhr erreichbar."
+    },
+    {
+        "Frage": "Wie kann ich Feedback zu einem Produkt geben?",
+        "Antwort": "Feedback können Sie über unser Kontaktformular senden."
+    },
+    {
+        "Frage": "Gibt es eine App für exklusive Angebote?",
+        "Antwort": "Ja, unsere App bietet exklusive Angebote und Rabatte."
+    },
+    {
+        "Frage": "Wie kann ich ein Produkt als Geschenk bestellen?",
+        "Antwort": "Wählen Sie die Geschenkoption beim Checkout."
+    },
+    {
+        "Frage": "Bieten Sie Rabatte bei größeren Bestellungen an?",
+        "Antwort": "Ja, bei Bestellungen ab 10 Stück erhalten Sie Rabatte."
+    },
+    {
+        "Frage": "Kann ich mit PayPal bezahlen?",
+        "Antwort": "Ja, wir akzeptieren PayPal als Zahlungsmethode."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich mein Passwort vergessen habe?",
+        "Antwort": "Nutzen Sie die \"Passwort vergessen?\"-Funktion auf der Login-Seite."
+    },
+    {
+        "Frage": "Gibt es eine Garantie auf Ihre Produkte?",
+        "Antwort": "Ja, wir bieten eine 2-jährige Garantie auf alle Produkte."
+    },
+    {
+        "Frage": "Wie melde ich mich für eine Rücksendung an?",
+        "Antwort": "Füllen Sie das Rücksendeformular auf unserer Website aus."
+    },
+    {
+        "Frage": "Wie hoch sind die Versandkosten?",
+        "Antwort": "Versandkosten betragen 5 Euro, ab 100 Euro kostenlos."
+    },
+    {
+        "Frage": "Kann ich Artikel reservieren?",
+        "Antwort": "Leider bieten wir derzeit keine Reservierungsoption an."
+    },
+    {
+        "Frage": "Was soll ich tun, wenn ich den falschen Artikel erhalte?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Klärung."
+    },
+    {
+        "Frage": "Wie aktualisiere ich meine Zahlungsinformationen?",
+        "Antwort": "Das können Sie in Ihrem Konto unter \"Zahlungen\" tun."
+    },
+    {
+        "Frage": "Wie häufig finden Ihre Sales statt?",
+        "Antwort": "Wir haben regelmäßig Sales, vor allem saisonal."
+    },
+    {
+        "Frage": "Kann ich die Produkte vor dem Kauf testen?",
+        "Antwort": "Momentan bieten wir keine Testmöglichkeiten an."
+    },
+    {
+        "Frage": "Was sind die Vorteile einer Kundenkarte?",
+        "Antwort": "Rabatte, exklusive Angebote und frühzeitiger Zugang zu Sales."
+    },
+    {
+        "Frage": "Wie bewerte ich einen Artikel?",
+        "Antwort": "Bewertungen können auf der Produktseite hinterlassen werden."
+    },
+    {
+        "Frage": "Gibt es eine Zufriedenheitsgarantie?",
+        "Antwort": "Ja, wenn Sie unzufrieden sind, erstatten wir Ihr Geld."
+    },
+    {
+        "Frage": "Wie sehe ich meine Bestellhistorie?",
+        "Antwort": "Loggen Sie sich in Ihr Konto ein und gehen Sie zu \"Bestellungen\"."
+    },
+    {
+        "Frage": "Kann ich Artikel zurücklegen?",
+        "Antwort": "Leider ist das derzeit nicht möglich."
+    },
+    {
+        "Frage": "Wie finde ich die neuesten Produkte?",
+        "Antwort": "Besuchen Sie unsere \"Neuheiten\"-Sektion auf der Website."
+    },
+    {
+        "Frage": "Kann ich mit Kreditkarte bezahlen?",
+        "Antwort": "Ja, wir akzeptieren alle gängigen Kreditkarten."
+    },
+    {
+        "Frage": "Wie lange dauert der Versand nach Deutschland?",
+        "Antwort": "Der Versand dauert in der Regel 2-5 Werktage."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich ein falsches Produkt bestellt habe?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Rücksendung."
+    },
+    {
+        "Frage": "Kann ich meine Bestellung als Geschenk verpacken lassen?",
+        "Antwort": "Ja, wir bieten Geschenkverpackungen an."
+    },
+    {
+        "Frage": "Bieten Sie eine Abholung im Geschäft an?",
+        "Antwort": "Ja, Abholung im Geschäft ist möglich."
+    },
+    {
+        "Frage": "Wie reaktiviere ich mein Konto?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Reaktivierung."
+    },
+    {
+        "Frage": "Kann ich Produkte personalisieren?",
+        "Antwort": "Ja, einige Produkte können personalisiert werden."
+    },
+    {
+        "Frage": "Wie gebe ich Feedback zu einem Produkt?",
+        "Antwort": "Nutzen Sie die Bewertungsfunktion auf der Produktseite."
+    },
+    {
+        "Frage": "Kann ich Produkte vergleichen?",
+        "Antwort": "Ja, nutzen Sie die Vergleichsfunktion auf unserer Website."
+    },
+    {
+        "Frage": "Wie kontaktiere ich den Kundenservice?",
+        "Antwort": "Sie können uns per E-Mail oder Telefon erreichen."
+    },
+    {
+        "Frage": "Sind Rücksendungen kostenlos?",
+        "Antwort": "Rücksendungen sind innerhalb von 30 Tagen kostenlos."
+    },
+    {
+        "Frage": "Wie sehe ich die Zahlungsmethoden?",
+        "Antwort": "Zahlungsmethoden finden Sie im Checkout-Prozess."
+    },
+    {
+        "Frage": "Kann ich meine Bestellung ändern?",
+        "Antwort": "Änderungen sind innerhalb von 24 Stunden möglich."
+    },
+    {
+        "Frage": "Wie kann ich meine Lieferadresse anpassen?",
+        "Antwort": "Das können Sie im Kundenkonto unter \"Adressen\" tun."
+    },
+    {
+        "Frage": "Wie lege ich einen Artikel in den Warenkorb?",
+        "Antwort": "Klicken Sie auf \"In den Warenkorb\" auf der Produktseite."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Produkte zu reservieren?",
+        "Antwort": "Momentan bieten wir keine Reservierungen an."
+    },
+    {
+        "Frage": "Wie verfolge ich meine Bestellung?",
+        "Antwort": "Sie erhalten einen Tracking-Link per E-Mail nach Versand."
+    },
+    {
+        "Frage": "Kann ich die Produkte vor dem Kauf ausprobieren?",
+        "Antwort": "Leider bieten wir keine Testmöglichkeiten an."
+    },
+    {
+        "Frage": "Wie reiche ich eine Beschwerde ein?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice direkt."
+    },
+    {
+        "Frage": "Haben Sie eine Hotline für Anfragen?",
+        "Antwort": "Ja, unsere Hotline ist von 9 bis 17 Uhr erreichbar."
+    },
+    {
+        "Frage": "Wie kann ich Feedback zu einem Produkt geben?",
+        "Antwort": "Feedback können Sie über unser Kontaktformular senden."
+    },
+    {
+        "Frage": "Gibt es eine App für exklusive Angebote?",
+        "Antwort": "Ja, unsere App bietet exklusive Angebote und Rabatte."
+    },
+    {
+        "Frage": "Wie kann ich ein Produkt als Geschenk bestellen?",
+        "Antwort": "Wählen Sie die Geschenkoption beim Checkout."
+    },
+    {
+        "Frage": "Bieten Sie Rabatte bei größeren Bestellungen an?",
+        "Antwort": "Ja, bei Bestellungen ab 10 Stück erhalten Sie Rabatte."
+    },
+    {
+        "Frage": "Kann ich mit PayPal bezahlen?",
+        "Antwort": "Ja, wir akzeptieren PayPal als Zahlungsmethode."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich mein Passwort vergessen habe?",
+        "Antwort": "Nutzen Sie die \"Passwort vergessen?\"-Funktion auf der Login-Seite."
+    },
+    {
+        "Frage": "Gibt es eine Garantie auf Ihre Produkte?",
+        "Antwort": "Ja, wir bieten eine 2-jährige Garantie auf alle Produkte."
+    },
+    {
+        "Frage": "Wie melde ich mich für eine Rücksendung an?",
+        "Antwort": "Füllen Sie das Rücksendeformular auf unserer Website aus."
+    },
+    {
+        "Frage": "Wie hoch sind die Versandkosten?",
+        "Antwort": "Versandkosten betragen 5 Euro, ab 100 Euro kostenlos."
+    },
+    {
+        "Frage": "Kann ich Artikel reservieren?",
+        "Antwort": "Leider bieten wir derzeit keine Reservierungsoption an."
+    },
+    {
+        "Frage": "Was soll ich tun, wenn ich den falschen Artikel erhalte?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Klärung."
+    },
+    {
+        "Frage": "Wie aktualisiere ich meine Zahlungsinformationen?",
+        "Antwort": "Das können Sie in Ihrem Konto unter \"Zahlungen\" tun."
+    },
+    {
+        "Frage": "Wie häufig finden Ihre Sales statt?",
+        "Antwort": "Wir haben regelmäßig Sales, vor allem saisonal."
+    },
+    {
+        "Frage": "Kann ich die Produkte vor dem Kauf testen?",
+        "Antwort": "Momentan bieten wir keine Testmöglichkeiten an."
+    },
+    {
+        "Frage": "Was sind die Vorteile einer Kundenkarte?",
+        "Antwort": "Rabatte, exklusive Angebote und frühzeitiger Zugang zu Sales."
+    },
+    {
+        "Frage": "Wie bewerte ich einen Artikel?",
+        "Antwort": "Bewertungen können auf der Produktseite hinterlassen werden."
+    },
+    {
+        "Frage": "Gibt es eine Zufriedenheitsgarantie?",
+        "Antwort": "Ja, wenn Sie unzufrieden sind, erstatten wir Ihr Geld."
+    },
+    {
+        "Frage": "Wie sehe ich meine Bestellhistorie?",
+        "Antwort": "Loggen Sie sich in Ihr Konto ein und gehen Sie zu \"Bestellungen\"."
+    },
+    {
+        "Frage": "Kann ich Artikel zurücklegen?",
+        "Antwort": "Leider ist das derzeit nicht möglich."
+    },
+    {
+        "Frage": "Wie finde ich die neuesten Produkte?",
+        "Antwort": "Besuchen Sie unsere \"Neuheiten\"-Sektion auf der Website."
+    },
+    {
+        "Frage": "Kann ich mit Kreditkarte bezahlen?",
+        "Antwort": "Ja, wir akzeptieren alle gängigen Kreditkarten."
+    },
+    {
+        "Frage": "Wie lange dauert der Versand nach Deutschland?",
+        "Antwort": "Der Versand dauert in der Regel 2-5 Werktage."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich ein falsches Produkt bestellt habe?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Rücksendung."
+    },
+    {
+        "Frage": "Kann ich meine Bestellung als Geschenk verpacken lassen?",
+        "Antwort": "Ja, wir bieten Geschenkverpackungen an."
+    },
+    {
+        "Frage": "Bieten Sie eine Abholung im Geschäft an?",
+        "Antwort": "Ja, Abholung im Geschäft ist möglich."
+    },
+    {
+        "Frage": "Wie reaktiviere ich mein Konto?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Reaktivierung."
+    },
+    {
+        "Frage": "Kann ich Produkte personalisieren?",
+        "Antwort": "Ja, einige Produkte können personalisiert werden."
+    },
+    {
+        "Frage": "Wie gebe ich Feedback zu einem Produkt?",
+        "Antwort": "Nutzen Sie die Bewertungsfunktion auf der Produktseite."
+    },
+    {
+        "Frage": "Kann ich Produkte vergleichen?",
+        "Antwort": "Ja, nutzen Sie die Vergleichsfunktion auf unserer Website."
+    },
+    {
+        "Frage": "Wie kontaktiere ich den Kundenservice?",
+        "Antwort": "Sie können uns per E-Mail oder Telefon erreichen."
+    },
+    {
+        "Frage": "Sind Rücksendungen kostenlos?",
+        "Antwort": "Rücksendungen sind innerhalb von 30 Tagen kostenlos."
+    },
+    {
+        "Frage": "Wie sehe ich die Zahlungsmethoden?",
+        "Antwort": "Zahlungsmethoden finden Sie im Checkout-Prozess."
+    },
+    {
+        "Frage": "Kann ich meine Bestellung ändern?",
+        "Antwort": "Änderungen sind innerhalb von 24 Stunden möglich."
+    },
+    {
+        "Frage": "Wie kann ich meine Lieferadresse anpassen?",
+        "Antwort": "Das können Sie im Kundenkonto unter \"Adressen\" tun."
+    },
+    {
+        "Frage": "Wie lege ich einen Artikel in den Warenkorb?",
+        "Antwort": "Klicken Sie auf \"In den Warenkorb\" auf der Produktseite."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Produkte zu reservieren?",
+        "Antwort": "Momentan bieten wir keine Reservierungen an."
+    },
+    {
+        "Frage": "Wie verfolge ich meine Bestellung?",
+        "Antwort": "Sie erhalten einen Tracking-Link per E-Mail nach Versand."
+    },
+    {
+        "Frage": "Kann ich die Produkte vor dem Kauf ausprobieren?",
+        "Antwort": "Leider bieten wir keine Testmöglichkeiten an."
+    },
+    {
+        "Frage": "Wie reiche ich eine Beschwerde ein?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice direkt."
+    },
+    {
+        "Frage": "Haben Sie eine Hotline für Anfragen?",
+        "Antwort": "Ja, unsere Hotline ist von 9 bis 17 Uhr erreichbar."
+    },
+    {
+        "Frage": "Wie kann ich Feedback zu einem Produkt geben?",
+        "Antwort": "Feedback können Sie über unser Kontaktformular senden."
+    },
+    {
+        "Frage": "Gibt es eine App für exklusive Angebote?",
+        "Antwort": "Ja, unsere App bietet exklusive Angebote und Rabatte."
+    },
+    {
+        "Frage": "Wie kann ich ein Produkt als Geschenk bestellen?",
+        "Antwort": "Wählen Sie die Geschenkoption beim Checkout."
+    },
+    {
+        "Frage": "Bieten Sie Rabatte bei größeren Bestellungen an?",
+        "Antwort": "Ja, bei Bestellungen ab 10 Stück erhalten Sie Rabatte."
+    },
+    {
+        "Frage": "Kann ich mit PayPal bezahlen?",
+        "Antwort": "Ja, wir akzeptieren PayPal als Zahlungsmethode."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich mein Passwort vergessen habe?",
+        "Antwort": "Nutzen Sie die \"Passwort vergessen?\"-Funktion auf der Login-Seite."
+    },
+    {
+        "Frage": "Gibt es eine Garantie auf Ihre Produkte?",
+        "Antwort": "Ja, wir bieten eine 2-jährige Garantie auf alle Produkte."
+    },
+    {
+        "Frage": "Wie melde ich mich für eine Rücksendung an?",
+        "Antwort": "Füllen Sie das Rücksendeformular auf unserer Website aus."
+    },
+    {
+        "Frage": "Wie hoch sind die Versandkosten?",
+        "Antwort": "Versandkosten betragen 5 Euro, ab 100 Euro kostenlos."
+    },
+    {
+        "Frage": "Kann ich Artikel reservieren?",
+        "Antwort": "Leider bieten wir derzeit keine Reservierungsoption an."
+    },
+    {
+        "Frage": "Was soll ich tun, wenn ich den falschen Artikel erhalte?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Klärung."
+    },
+    {
+        "Frage": "Wie aktualisiere ich meine Zahlungsinformationen?",
+        "Antwort": "Das können Sie in Ihrem Konto unter \"Zahlungen\" tun."
+    },
+    {
+        "Frage": "Wie häufig finden Ihre Sales statt?",
+        "Antwort": "Wir haben regelmäßig Sales, vor allem saisonal."
+    },
+    {
+        "Frage": "Kann ich die Produkte vor dem Kauf testen?",
+        "Antwort": "Momentan bieten wir keine Testmöglichkeiten an."
+    },
+    {
+        "Frage": "Was sind die Vorteile einer Kundenkarte?",
+        "Antwort": "Rabatte, exklusive Angebote und frühzeitiger Zugang zu Sales."
+    },
+    {
+        "Frage": "Wie bewerte ich einen Artikel?",
+        "Antwort": "Bewertungen können auf der Produktseite hinterlassen werden."
+    },
+    {
+        "Frage": "Gibt es eine Zufriedenheitsgarantie?",
+        "Antwort": "Ja, wenn Sie unzufrieden sind, erstatten wir Ihr Geld."
+    },
+    {
+        "Frage": "Wie sehe ich meine Bestellhistorie?",
+        "Antwort": "Loggen Sie sich in Ihr Konto ein und gehen Sie zu \"Bestellungen\"."
+    },
+    {
+        "Frage": "Kann ich Artikel zurücklegen?",
+        "Antwort": "Leider ist das derzeit nicht möglich."
+    },
+    {
+        "Frage": "Wie finde ich die neuesten Produkte?",
+        "Antwort": "Besuchen Sie unsere \"Neuheiten\"-Sektion auf der Website."
+    },
+    {
+        "Frage": "Kann ich mit Kreditkarte bezahlen?",
+        "Antwort": "Ja, wir akzeptieren alle gängigen Kreditkarten."
+    },
+    {
+        "Frage": "Wie lange dauert der Versand nach Deutschland?",
+        "Antwort": "Der Versand dauert in der Regel 2-5 Werktage."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich ein falsches Produkt bestellt habe?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Rücksendung."
+    },
+    {
+        "Frage": "Kann ich meine Bestellung als Geschenk verpacken lassen?",
+        "Antwort": "Ja, wir bieten Geschenkverpackungen an."
+    },
+    {
+        "Frage": "Bieten Sie eine Abholung im Geschäft an?",
+        "Antwort": "Ja, Abholung im Geschäft ist möglich."
+    },
+    {
+        "Frage": "Wie reaktiviere ich mein Konto?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Reaktivierung."
+    },
+    {
+        "Frage": "Kann ich Produkte personalisieren?",
+        "Antwort": "Ja, einige Produkte können personalisiert werden."
+    },
+    {
+        "Frage": "Wie gebe ich Feedback zu einem Produkt?",
+        "Antwort": "Nutzen Sie die Bewertungsfunktion auf der Produktseite."
+    },
+    {
+        "Frage": "Kann ich Produkte vergleichen?",
+        "Antwort": "Ja, nutzen Sie die Vergleichsfunktion auf unserer Website."
+    },
+    {
+        "Frage": "Wie kontaktiere ich den Kundenservice?",
+        "Antwort": "Sie können uns per E-Mail oder Telefon erreichen."
+    },
+    {
+        "Frage": "Sind Rücksendungen kostenlos?",
+        "Antwort": "Rücksendungen sind innerhalb von 30 Tagen kostenlos."
+    },
+    {
+        "Frage": "Wie sehe ich die Zahlungsmethoden?",
+        "Antwort": "Zahlungsmethoden finden Sie im Checkout-Prozess."
+    },
+    {
+        "Frage": "Kann ich meine Bestellung ändern?",
+        "Antwort": "Änderungen sind innerhalb von 24 Stunden möglich."
+    },
+    {
+        "Frage": "Wie kann ich meine Lieferadresse anpassen?",
+        "Antwort": "Das können Sie im Kundenkonto unter \"Adressen\" tun."
+    },
+    {
+        "Frage": "Wie lege ich einen Artikel in den Warenkorb?",
+        "Antwort": "Klicken Sie auf \"In den Warenkorb\" auf der Produktseite."
+    },
+    {
+        "Frage": "Gibt es eine Möglichkeit, die Produkte zu reservieren?",
+        "Antwort": "Momentan bieten wir keine Reservierungen an."
+    },
+    {
+        "Frage": "Wie verfolge ich meine Bestellung?",
+        "Antwort": "Sie erhalten einen Tracking-Link per E-Mail nach Versand."
+    },
+    {
+        "Frage": "Kann ich die Produkte vor dem Kauf ausprobieren?",
+        "Antwort": "Leider bieten wir keine Testmöglichkeiten an."
+    },
+    {
+        "Frage": "Wie reiche ich eine Beschwerde ein?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice direkt."
+    },
+    {
+        "Frage": "Haben Sie eine Hotline für Anfragen?",
+        "Antwort": "Ja, unsere Hotline ist von 9 bis 17 Uhr erreichbar."
+    },
+    {
+        "Frage": "Wie kann ich Feedback zu einem Produkt geben?",
+        "Antwort": "Feedback können Sie über unser Kontaktformular senden."
+    },
+    {
+        "Frage": "Gibt es eine App für exklusive Angebote?",
+        "Antwort": "Ja, unsere App bietet exklusive Angebote und Rabatte."
+    },
+    {
+        "Frage": "Wie kann ich ein Produkt als Geschenk bestellen?",
+        "Antwort": "Wählen Sie die Geschenkoption beim Checkout."
+    },
+    {
+        "Frage": "Bieten Sie Rabatte bei größeren Bestellungen an?",
+        "Antwort": "Ja, bei Bestellungen ab 10 Stück erhalten Sie Rabatte."
+    },
+    {
+        "Frage": "Kann ich mit PayPal bezahlen?",
+        "Antwort": "Ja, wir akzeptieren PayPal als Zahlungsmethode."
+    },
+    {
+        "Frage": "Was mache ich, wenn ich mein Passwort vergessen habe?",
+        "Antwort": "Nutzen Sie die \"Passwort vergessen?\"-Funktion auf der Login-Seite."
+    },
+    {
+        "Frage": "Gibt es eine Garantie auf Ihre Produkte?",
+        "Antwort": "Ja, wir bieten eine 2-jährige Garantie auf alle Produkte."
+    },
+    {
+        "Frage": "Wie melde ich mich für eine Rücksendung an?",
+        "Antwort": "Füllen Sie das Rücksendeformular auf unserer Website aus."
+    },
+    {
+        "Frage": "Wie hoch sind die Versandkosten?",
+        "Antwort": "Versandkosten betragen 5 Euro, ab 100 Euro kostenlos."
+    },
+    {
+        "Frage": "Kann ich Artikel reservieren?",
+        "Antwort": "Leider bieten wir derzeit keine Reservierungsoption an."
+    },
+    {
+        "Frage": "Was soll ich tun, wenn ich den falschen Artikel erhalte?",
+        "Antwort": "Bitte kontaktieren Sie unseren Kundenservice zur Klärung."
+    },
+    {
+        "Frage": "Wie aktualisiere ich meine Zahlungsinformationen?",
+        "Antwort": "Das können Sie in Ihrem Konto unter \"Zahlungen\" tun."
+    },
+    {
+        "Frage": "Wie häufig finden Ihre Sales statt?",
+        "Antwort": "Wir haben regelmäßig Sales, vor allem saisonal."
+    },
+    {
+        "Frage": "Kann ich die Produkte vor dem Kauf testen?",
+        "Antwort": "Momentan bieten wir keine Testmöglichkeiten an."
+    },
+    {
+        "Frage": "Was sind die Vorteile einer Kundenkarte?",
+        "Antwort": "Rabatte, exklusive Angebote und frühzeitiger Zugang zu Sales."
+    },
+    {
+        "Frage": "Wie bewerte ich einen Artikel?",
+        "Antwort": "Bewertungen können auf der Produktseite hinterlassen werden."
+    }
+]
